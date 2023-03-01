@@ -22,10 +22,5 @@ Main Menu²
 Pridepack 1.0
 ![Pridepack 1.0](https://i.imgur.com/GdtXwxH.jpeg)
 ## Where else can I download
-On [MODRINTH
-](https://modrinth.com/resourcepack/pridepack3)On [CURSEFORGE]
-On [PLANETMINECRAFT]
-~~On [TLMODS]~~
-~~On [9Minecraft]~~
-~~On [Resourcepack.net]~~
-~~On our [website] (coming soon:tm:)~~
+[![modrinth_64h.png](https://github.com/intergrav/devins-badges/blob/v3/assets/cozy/available/modrinth_64h.png?raw=true)](https://modrinth.com/resourcepack/pridepack3)[![curseforge_64h.png](https://github.com/intergrav/devins-badges/blob/v3/assets/cozy/available/curseforge_64h.png?raw=true)](https://www.curseforge.com/minecraft/texture-packs/pride-pack-v3)[
+![git_64h.png](https://github.com/intergrav/devins-badges/blob/v3/assets/cozy/available/git_64h.png?raw=true)](https://github.com/Nu-Git/pridepack)[![Planet Minecraft Logo](https://www.planetminecraft.com/images/layout/themes/modern/planetminecraft_logo.png)](https://www.planetminecraft.com/texture-pack/pride-pack-5865389/)
