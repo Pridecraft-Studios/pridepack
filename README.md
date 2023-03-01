@@ -1,2 +1,31 @@
-# pridepack
- A Pride themed Resource Pack
+# Pride Pack (3.0)
+This is a Pride Themed Minecraft Resource Pack.
+It has many colored blocks switched to Pride Flags and even changes Music Disks to have LGBT songs (in note block cover).
+## Why new page
+You might have seen my previous "Pride Pack" packs, but i decided to make a new page to update it to "CanalNu" branding and other stuff. Also to force TLMods literally tell you to not use it :skull:
+## Why exists
+Because pride. If you're asking "Why lgbt pride exists", get out of here.
+## Can we has screenshots
+Yes.
+Most textures in game
+![Most textures in game](https://i.imgur.com/KGTczXF.png)Bii
+![Bii](https://i.imgur.com/cEkTU1z.png)Bii in different place
+![Bii in different place](https://i.imgur.com/sRjKnkQ.png)
+Biis sniffing flowers
+![Biis sniffing flowers](https://i.imgur.com/mTwe9yh.png)Biis sniffing flowers²
+![Biis sniffing flowers²](https://i.imgur.com/FseGPbT.png)
+Main Menu
+![Main Menu](https://i.imgur.com/30yAjTb.jpeg)
+
+Main Menu²
+![Main Menu²](https://i.imgur.com/myYvlan.jpeg)
+Pridepack 1.0
+![Pridepack 1.0](https://i.imgur.com/GdtXwxH.jpeg)
+## Where else can I download
+On [MODRINTH
+](https://modrinth.com/resourcepack/pridepack3)On [CURSEFORGE]
+On [PLANETMINECRAFT]
+~~On [TLMODS]~~
+~~On [9Minecraft]~~
+~~On [Resourcepack.net]~~
+~~On our [website] (coming soon:tm:)~~
