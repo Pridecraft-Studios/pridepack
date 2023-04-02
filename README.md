@@ -1,4 +1,4 @@
-# Pride Pack (3.0)
+# Pride Pack
 This is a Pride Themed Minecraft Resource Pack.
 It has many colored blocks switched to Pride Flags and even changes Music Disks to have LGBT songs (in note block cover).
 ## Why new page
