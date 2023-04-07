@@ -1,6 +1,8 @@
 # Pride Pack
 This is a Pride Themed Minecraft Resource Pack.
 It has many colored blocks switched to Pride Flags and even changes Music Disks to have LGBT songs (in note block cover).
+## How can I suggest stuff?
+Create an ![Issue](https://github.com/Pridecraft-Studios/pridepack/issues/new) on GitHub detailing your suggestion.
 ## Why exists
 Because pride. If you're asking "Why lgbt pride exists", get out of here.
 ## Can we has screenshots
