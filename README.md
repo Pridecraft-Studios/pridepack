@@ -1,8 +1,6 @@
 # Pride Pack
 This is a Pride Themed Minecraft Resource Pack.
 It has many colored blocks switched to Pride Flags and even changes Music Disks to have LGBT songs (in note block cover).
-## Why new page
-You might have seen my previous "Pride Pack" packs, but i decided to make a new page to update it to "CanalNu" branding and other stuff. Also to force TLMods literally tell you to not use it :skull:
 ## Why exists
 Because pride. If you're asking "Why lgbt pride exists", get out of here.
 ## Can we has screenshots
@@ -50,5 +48,5 @@ Thank you PandaNinjas#3017, Minenash#2222, Pythagoras_314#5176, astroidbuster#34
 
 
 ## Where else can I download
-[![modrinth_64h.png](https://github.com/intergrav/devins-badges/blob/v3/assets/cozy/available/modrinth_64h.png?raw=true)](https://modrinth.com/resourcepack/pridepack3)[![curseforge_64h.png](https://github.com/intergrav/devins-badges/blob/v3/assets/cozy/available/curseforge_64h.png?raw=true)](https://www.curseforge.com/minecraft/texture-packs/pride-pack-v3)[
-![git_64h.png](https://github.com/intergrav/devins-badges/blob/v3/assets/cozy/available/git_64h.png?raw=true)](https://github.com/Nu-Git/pridepack)[![Planet Minecraft Logo](https://www.planetminecraft.com/images/layout/themes/modern/planetminecraft_logo.png)](https://www.planetminecraft.com/texture-pack/pride-pack-5865389/)
+[![modrinth_64h.png](https://github.com/intergrav/devins-badges/blob/v3/assets/cozy/available/modrinth_64h.png?raw=true)](https://modrinth.com/resourcepack/pridepack)[![curseforge_64h.png](https://github.com/intergrav/devins-badges/blob/v3/assets/cozy/available/curseforge_64h.png?raw=true)](https://www.curseforge.com/minecraft/texture-packs/pride-pack)[
+![git_64h.png](https://github.com/intergrav/devins-badges/blob/v3/assets/cozy/available/git_64h.png?raw=true)](https://github.com/Pridecraft-Studios/pridepack)[![Planet Minecraft Logo](https://www.planetminecraft.com/images/layout/themes/modern/planetminecraft_logo.png)](https://www.planetminecraft.com/texture-pack/pride-pack-5865389/)
