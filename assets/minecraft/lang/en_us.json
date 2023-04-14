@@ -19,6 +19,10 @@
   "block.minecraft.magenta_bed": "Aromantic Asexual (aka Aroace) Bed",
   "block.minecraft.orange_bed": "Lesbian Bed",
   "block.minecraft.white_bed": "Progress Bed",
+
+  "block.minecraft.bee_nest": "Bii Nest",
+  "block.minecraft.beehive": "Biihive",
+
   "item.minecraft.bee_spawn_egg": "Bii Spawn Egg",
   "entity.minecraft.bee": "Bii",
   "subtitles.block.beehive.enter": "Bii enters hive",
