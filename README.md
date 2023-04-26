@@ -1,54 +1,21 @@
-# Pride Pack
-This is a Pride Themed Minecraft Resource Pack.
-It has many colored blocks switched to Pride Flags and even changes Music Disks to have LGBT songs (in note block cover).
-## Why new page
-You might have seen my previous "Pride Pack" packs, but i decided to make a new page to update it to "CanalNu" branding and other stuff. Also to force TLMods literally tell you to not use it :skull:
-## Why exists
-Because pride. If you're asking "Why lgbt pride exists", get out of here.
-## Can we has screenshots
-Yes.
+<!-- Cuties -->
+# PridePack
+This is PridePack. A Resource Pack made by [Pridecraft Studios](https://github.com/pridecraft-studios). We make Minecraft Gay.
+We also make some mods, such as [Paladin's Furniture Mod](https://modrinth.com/mod/paladins-furniture). If you want to see your  or any other mod be gayed without making it look like all flat rainbows, create an [Issue](https://github.com/Pridecraft-Studios/pridepack/issues/new) on GitHub detailing your suggestion.
 
-Most textures in game
-
-![Most textures in game](https://i.imgur.com/KGTczXF.png)Bii
-
-![Bii](https://i.imgur.com/cEkTU1z.png)Bii in different place
-
-![Bii in different place](https://i.imgur.com/sRjKnkQ.png)
-
-Biis sniffing flowers
-
-![Biis sniffing flowers](https://i.imgur.com/mTwe9yh.png)Biis sniffing flowers²
-
-![Biis sniffing flowers²](https://i.imgur.com/FseGPbT.png)
-
-Main Menu
-
-![Main Menu](https://i.imgur.com/30yAjTb.jpeg)
-
-
-Main Menu²
-
-![Main Menu²](https://i.imgur.com/myYvlan.jpeg)
-
-Pridepack 1.0
-
-![Pridepack 1.0](https://i.imgur.com/GdtXwxH.jpeg)
-
-
-## Credits
-
-Thank you Devin for making a working gif icon :skull:
-
-Thank you Bake for making better bed textures
-
-Thank you VictoriaMoon#8393 for lesbian stuff
-
-Thank you ![Microsoft](https://github.com/microsoft/Pride-flag) for the pride wallpaper
-
-Thank you PandaNinjas#3017, Minenash#2222, Pythagoras_314#5176, astroidbuster#3478, BucketOfCompasses#8790, guenther42horst#4268 əนѻʇƨρәɻ_ҋا_ʇɒƆ#4748, hisashiburi#0981, asoji for suggestions
-
-
-## Where else can I download
-[![modrinth_64h.png](https://github.com/intergrav/devins-badges/blob/v3/assets/cozy/available/modrinth_64h.png?raw=true)](https://modrinth.com/resourcepack/pridepack3)[![curseforge_64h.png](https://github.com/intergrav/devins-badges/blob/v3/assets/cozy/available/curseforge_64h.png?raw=true)](https://www.curseforge.com/minecraft/texture-packs/pride-pack-v3)[
-![git_64h.png](https://github.com/intergrav/devins-badges/blob/v3/assets/cozy/available/git_64h.png?raw=true)](https://github.com/Nu-Git/pridepack)[![Planet Minecraft Logo](https://www.planetminecraft.com/images/layout/themes/modern/planetminecraft_logo.png)](https://www.planetminecraft.com/texture-pack/pride-pack-5865389/)
+##### Where are the images
+###### if you miss the images check out the Gallery tab.
+## Who
+We're Pridecraft Studios: A team that makes LGBT stuff to Minecraft. We're working on PridePack, PrideMod, PrideSounds and many other projects.
+## How can I test new stuff out?
+You can join our [Discord](https://discord.pridecraft.gay) and get early features sneak-peaks, and check out the [GitHub Releases](https://github.com/Pridecraft-Studios/pridepack/releases) for betas.
+## What mods are currently supported?
+Currently, the only gayed mod is [Paladin's Furniture Mod](https://modrinth.com/mod/paladins-furniture). We're planning on gaying.
+## Where else is this avaliable?
+[![Get on Modrinth](https://github.com/intergrav/devins-badges/blob/v3/assets/cozy/available/modrinth_64h.png?raw=true)](https://modrinth.com/resourcepack/pridepack) [![Get on CurseForge](https://github.com/intergrav/devins-badges/blob/v3/assets/cozy/available/curseforge_64h.png?raw=true)](https://www.curseforge.com/minecraft/texture-packs/pride-pack) [![Get on GitHub](https://github.com/Nu-Git/questionmark-badges/blob/main/pridepack-4.20/Avaliable%20on%20Github.png?raw=true)](https://github.com/Pridecraft-Studios/pridepack) [![Stolen by TLMods](https://github.com/Nu-Git/questionmark-badges/blob/main/pridepack-4.20/Stolen%20By%20TLMods.png?raw=true)](https://tlmods.org/en/resourcepacks/pride-pack-v3/) [![Get on PMC](https://github.com/Nu-Git/questionmark-badges/blob/main/badges/1Xpng/Avaliable%20On%20PMC@1x.png?raw=true)](https://www.planetminecraft.com/member/canalnu/)
+---
+[![Check out the Insta](https://github.com/Nu-Git/questionmark-badges/blob/main/pridepack-4.20/Check%20Out%20Instagram.png?raw=true)](https://www.instagram.com/pridecraftstudios/) [![Check out our YouTube](https://github.com/Nu-Git/questionmark-badges/blob/main/pridepack-4.20/Check%20Out%20Youtube.png?raw=true)](https://www.youtube.com/@PrideCraftStudios) [![Join the Discord](https://github.com/Nu-Git/questionmark-badges/blob/main/badges/1Xpng/Join%20the%20Discord@1x.png?raw=true)](https://discord.pridecraft.gay)
+---
+[![Compatible with Iris](https://github.com/Nu-Git/questionmark-badges/blob/main/badges/1Xpng/Compatible%20with%20Iris%20Shaders@1x-1.png?raw=true)](https://irisshaders.net/) [![Compatible with OptiFabric](https://github.com/Nu-Git/questionmark-badges/blob/main/badges/1Xpng/Compatible%20with%20Optifabric@1x.png?raw=true)](https://www.curseforge.com/minecraft/mc-mods/optifabric) [![Compatible with Optifine](https://github.com/Nu-Git/questionmark-badges/blob/main/badges/1Xpng/Compatible%20with%20Optifine@1x.png?raw=true)](https://optifine.net)
+[![Compatible with PFM](https://github.com/Nu-Git/questionmark-badges/blob/main/badges/1Xpng/Compatible%20with%20PFM@1x.png?raw=true)](https://modrinth.com/mod/paladins-furniture) [![Compatible with Sodium](https://github.com/Nu-Git/questionmark-badges/blob/main/badges/1Xpng/Compatible%20with%20Sodium@1x.png?raw=true)](https://modrinth.com/mod/sodium)
+[![Compatibble with VulkanMod (Probably)](https://github.com/Nu-Git/questionmark-badges/blob/main/pridepack-4.20/Compatible%20with%20VulkanMod.png?raw=true)](https://modrinth.com/mod/vulkanmod) [![Compatible with Canvas Renderer](https://github.com/Nu-Git/questionmark-badges/blob/main/pridepack-4.20/Compatible%20with%20Canvas.png?raw=true)](https://modrinth.com/mod/canvas)
