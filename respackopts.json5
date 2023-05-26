@@ -7,10 +7,10 @@
             enableShulker: false,
             enableCandle: false,
             enableWool: false,
-            enabbleGlazed: false,
+            enableGlazed: false,
             enableBeds: true,
             enableFroggy: true,
-            enableTerracota: false,
+            enableTerracotta: false,
             enableConcrete: false,
             enableHay: false
         },

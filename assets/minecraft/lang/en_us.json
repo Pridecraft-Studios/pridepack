@@ -89,5 +89,11 @@
   "rpo.pridepack.entities.enableSlime": "Enable Slime textures",
   "rpo.pridepack.entities.enableVillager": "Enable Villager textures",
 
-"rpo.pridepack.sounds.title": "Sounds"
+"rpo.pridepack.sounds.title": "Sounds",
+
+
+
+
+
+"tooltips.for.rpo.go.here": "Tooltips for Resource Pack Options below."
 }
