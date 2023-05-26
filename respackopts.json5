@@ -1,0 +1,39 @@
+{
+    id: "pridepack",
+    version: 9,
+    capabilities: ["FileFilter", "DirFilter"],
+    conf: {
+        coloredBlocks: {
+            enableShulker: false,
+            enableCandle: false,
+            enableWool: false,
+            enabbleGlazed: false,
+            enableBeds: true,
+            enableFroggy: true,
+            enableTerracota: false,
+            enableConcrete: false,
+            enableHay: false
+        },
+
+        entities: {
+
+            enableFox: true,
+            enableBii: true,
+            enablePaintings: true,
+            enableSniffer: true,
+            enableSlime: false,
+            enableVillager: false
+
+        },
+
+        sounds: {
+
+            enableMusicDiscs: false,
+            enableMenuMusic: false,
+            enableAmbientSounds: false,
+            enableYouLikeKissingBoysCreeper: false
+
+        }
+        
+    }
+}

@@ -54,6 +54,40 @@
   "subtitles.entity.bee.pollinate": "Bii buzzes happily",
   "subtitles.entity.bee.sting": "Bii stings",
   "advancements.husbandry.safely_harvest_honey.title": "Bii Our Guest",
-  "advancements.husbandry.safely_harvest_honey.description": "Use a Campfire to collect Honey from a Biihive using a Bottle without aggravating the Biis"
+  "advancements.husbandry.safely_harvest_honey.description": "Use a Campfire to collect Honey from a Biihive using a Bottle without aggravating the Biis",
 
+
+
+
+
+
+
+"this.is.just.for.the.resourcepack.options.config": "Don't Worry About Me!    RESOURCE PACK OPTIONS LANG BELOW.",
+
+
+
+
+
+"rpo.pridepack.coloredBlocks.title": "Colored Blocks",
+
+  "rpo.pridepack.coloredBlocks.enableShulker": "Enable Shulker textures",
+  "rpo.pridepack.coloredBlocks.enableCandle": "Enable Candle textures",
+  "rpo.pridepack.coloredBlocks.enableWool": "Enable Wool textures",
+  "rpo.pridepack.coloredBlocks.enableGlazed": "Enable Glazed Terracotta textures",
+  "rpo.pridepack.coloredBlocks.enableBeds": "Enable Bed textures",
+  "rpo.pridepack.coloredBlocks.enableFroggy": "Enable Froggy Chair textures (PFM)",
+  "rpo.pridepack.coloredBlocks.enableTerracotta": "Enable Terracotta textures",
+  "rpo.pridepack.coloredBlocks.enableConcrete": "Enable Concrete textures",
+  "rpo.pridepack.coloredBlocks.enableHay": "Enable Hay Bale textures",
+
+"rpo.pridepack.entities.title": "Entities",
+
+  "rpo.pridepack.entities.enableFox": "Enable Fox textures",
+  "rpo.pridepack.entities.enableBii": "Enable Bii textures",
+  "rpo.pridepack.entities.enablePaintings": "Enable Paintings textures",
+  "rpo.pridepack.entities.enableSniffer": "Enable Sniffer textures",
+  "rpo.pridepack.entities.enableSlime": "Enable Slime textures",
+  "rpo.pridepack.entities.enableVillager": "Enable Villager textures",
+
+"rpo.pridepack.sounds.title": "Sounds"
 }
