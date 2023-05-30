@@ -1,0 +1,86 @@
+{
+  "language.name": "Brasileiro",
+  "language.region": "Brasil",
+  "language.code": "pt_bn",
+  
+  "block.minecraft.black_bed": "Cama Não-Binarie",
+  "block.minecraft.red_bed": "Cama Gay",
+  "block.minecraft.green_bed": "Cama Intersexo",
+  "block.minecraft.brown_bed": "Cama Aplatônica",
+  "block.minecraft.blue_bed": "Cama Bigênero",
+  "block.minecraft.purple_bed": "Cama Bisexual",
+  "block.minecraft.cyan_bed": "Cama Gay (MLM)",
+  "block.minecraft.light_gray_bed": "Cama Asexual",
+  "block.minecraft.gray_bed": "Cama Aromântica",
+  "block.minecraft.pink_bed": "Cama Aplatônica",
+  "block.minecraft.lime_bed": "Cama Gênero Fluido",
+  "block.minecraft.yellow_bed": "Cama Pansexual",
+  "block.minecraft.light_blue_bed": "Cama Trans",
+  "block.minecraft.magenta_bed": "Cama Aromântico Asexual (Aroace)",
+  "block.minecraft.orange_bed": "Cama Lésbica",
+  "block.minecraft.white_bed": "Cama \"Progress Flag\"",
+
+  "block.minecraft.candle": "Vela Queer",
+  "block.mine.craft.white_candle": "White Candle",
+  "block.minec.raft.orange_candle": "Orange Candle",
+  "block.minecr.aft.magenta_candle": "Magenta Candle",
+  "block.minecra.ft.light_blue_candle": "Light Blue Candle",
+  "block.minecraf.t.yellow_candle": "Yellow Candle",
+  "block.minecraf.t.lime_candle": "Lime Candle",
+  "block.minecra.ft.pink_candle": "Pink Candle",
+  "block.minecr.aft.gray_candle": "Gray Candle",
+  "block.minec.raft.light_gray_candle": "Light Gray Candle",
+  "block.mine.craft.cyan_candle": "Cyan Candle",
+  "block.min.ecraft.purple_candle": "Purple Candle",
+  "block.mi.necraft.blue_candle": "Blue Candle",
+  "block.m.inecraft.brown_candle": "Brown Candle",
+  "block.mi.necraft.green_candle": "Green Candle",
+  "block.min.ecraft.red_candle": "Gay Candle",
+  "block.mine.craft.black_candle": "Black Candle",
+
+  "block.minecraft.bee_nest": "Ninho de Abiilha",
+  "block.minecraft.beehive": "Colmeia de Abiilha",
+
+  "item.minecraft.bee_spawn_egg": "Sumonar Abiilha",
+  "entity.minecraft.bee": "Abiilha",
+
+
+
+
+
+
+"this.is.just.for.the.resourcepack.options.config": "Don't Worry About Me!    RESOURCE PACK OPTIONS LANG BELOW.",
+
+
+
+
+
+"rpo.pridepack.coloredBlocks.title": "Colored Blocks",
+
+  "rpo.pridepack.coloredBlocks.enableShulker": "Enable Shulker textures",
+  "rpo.pridepack.coloredBlocks.enableCandle": "Enable Candle textures",
+  "rpo.pridepack.coloredBlocks.enableWool": "Enable Wool textures",
+  "rpo.pridepack.coloredBlocks.enableGlazed": "Enable Glazed Terracotta textures",
+  "rpo.pridepack.coloredBlocks.enableBeds": "Enable Bed textures",
+  "rpo.pridepack.coloredBlocks.enableFroggy": "Enable Froggy Chair textures (PFM)",
+  "rpo.pridepack.coloredBlocks.enableTerracotta": "Enable Terracotta textures",
+  "rpo.pridepack.coloredBlocks.enableConcrete": "Enable Concrete textures",
+  "rpo.pridepack.coloredBlocks.enableHay": "Enable Hay Bale textures",
+
+"rpo.pridepack.entities.title": "Entities",
+
+  "rpo.pridepack.entities.enableFox": "Enable Fox textures",
+  "rpo.pridepack.entities.enableBii": "Enable Bii textures",
+  "rpo.pridepack.entities.enablePaintings": "Enable Paintings textures",
+  "rpo.pridepack.entities.enableSniffer": "Enable Sniffer textures",
+  "rpo.pridepack.entities.enableSlime": "Enable Slime textures",
+  "rpo.pridepack.entities.enableVillager": "Enable Villager textures",
+
+"rpo.pridepack.sounds.title": "Sounds",
+
+
+
+
+
+"tooltips.for.rpo.go.here": "Tooltips for Resource Pack Options below."
+}
