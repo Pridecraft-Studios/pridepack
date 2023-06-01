@@ -31,7 +31,17 @@
             enableMusicDiscs: false,
             enableMenuMusic: false,
             enableAmbientSounds: false,
-            enableYouLikeKissingBoysCreeper: false
+            enableKissingBoys: false
+
+        },
+
+        images: {
+
+            enablePanorama: true,
+            enableEdition: false,
+            enableLogo: true,
+            enableMojang: true,
+            enableIris: false
 
         }
         
