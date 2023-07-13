@@ -5,8 +5,9 @@ We also have compatibility with some mods, such as [Paladin's Furniture Mod](htt
 ## Who
 We're [Pridecraft Studios](https://pridepack.gay): A team that makes LGBT stuff to Minecraft. We're working on [PridePack](https://github.com/Pridecraft-Studios/PridePack), [PrideMod](https://github.com/Pridecraft-Studios/PrideMod), [PrideSounds](https://github.com/Pridecraft-Studios/PrideSounds) and many other [projects](https://github.com/orgs/Pridecraft-Studios/repositories).
 ## How can I test new stuff out?
-You can join our [Discord](https://discord.pridecraft.gay) and get early features sneak-peaks, or check out the [GitHub Releases](https://github.com/Pridecraft-Studios/pridepack/releases) for betas.
-<!-- You can also join our [Patreon](patreon.link/here) for early access to unnanounced projects. -->
+You can join our [Discord](https://discord.pridecraft.gay) and get early features sneak-peaks, or check out the [GitHub Releases](https://github.com/pridecraft-studios/pridepack)
+## How can I contribute?
+You can help us translate Pridepack to more laguages on [Crow
 ## What mods are currently supported?
 Currently, the only themed mod is [Paladin's Furniture Mod](https://modrinth.com/mod/paladins-furniture), which is avaliable on the base Pridepack resource pack.
 We plan adding support for the [Create Mod](https://modrinth.com/mod/create), [More Axolotl Variants Mod](https://modrinth.com/mod/mavm) (*could be added to Pridemod instead*), [Botania](https://modrinth.com/mod/botania) (gay tater :thonk:) and many other mods we get suggestions for
@@ -27,7 +28,7 @@ We plan adding support for the [Create Mod](https://modrinth.com/mod/create), [M
 [![Compatible with Iris](https://github.com/Nu-Git/questionmark-badges/blob/main/badges/1Xpng/Compatible%20with%20Iris%20Shaders@1x-1.png?raw=true)](https://irisshaders.net/) [![Compatible with OptiFabric](https://github.com/Nu-Git/questionmark-badges/blob/main/badges/1Xpng/Compatible%20with%20Optifabric@1x.png?raw=true)](https://www.curseforge.com/minecraft/mc-mods/optifabric) [![Compatible with Optifine](https://github.com/Nu-Git/questionmark-badges/blob/main/badges/1Xpng/Compatible%20with%20Optifine@1x.png?raw=true)](https://optifine.net)
 [![Compatible with PFM](https://github.com/Nu-Git/questionmark-badges/blob/main/badges/1Xpng/Compatible%20with%20PFM@1x.png?raw=true)](https://modrinth.com/mod/paladins-furniture) [![Compatible with Sodium](https://github.com/Nu-Git/questionmark-badges/blob/main/badges/1Xpng/Compatible%20with%20Sodium@1x.png?raw=true)](https://modrinth.com/mod/sodium)
 [![Compatibble with VulkanMod (Probably)](https://github.com/Nu-Git/questionmark-badges/blob/main/pridepack-4.20/Compatible%20with%20VulkanMod.png?raw=true)](https://modrinth.com/mod/vulkanmod) [![Compatible with Canvas Renderer](https://github.com/Nu-Git/questionmark-badges/blob/main/pridepack-4.20/Compatible%20with%20Canvas.png?raw=true)](https://modrinth.com/mod/canvas)
-
+n
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzYyNDU3MjYsMTE5NDc5MTU2M119
+eyJoaXN0b3J5IjpbODAwNTEzMDYzLDExOTQ3OTE1NjNdfQ==
 -->
