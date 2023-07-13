@@ -7,7 +7,8 @@ We're [Pridecraft Studios](https://pridepack.gay): A team that makes LGBT stuff 
 ## How can I test new stuff out?
 You can join our [Discord](https://discord.pridecraft.gay) and get early features sneak-peaks, or check out the [GitHub Releases](https://github.com/pridecraft-studios/pridepack)
 ## How can I contribute?
-You can help us translate Pridepack to more laguages on [Crow
+You can help us translate Pridepack to more laguages on [Crowdin](https://crowdin.com/project/pridepack/settings)
+[![Crowdin](https://badges.crowdin.net/pridepack/localized.svg)](https://crowdin.com/project/pridepack)
 ## What mods are currently supported?
 Currently, the only themed mod is [Paladin's Furniture Mod](https://modrinth.com/mod/paladins-furniture), which is avaliable on the base Pridepack resource pack.
 We plan adding support for the [Create Mod](https://modrinth.com/mod/create), [More Axolotl Variants Mod](https://modrinth.com/mod/mavm) (*could be added to Pridemod instead*), [Botania](https://modrinth.com/mod/botania) (gay tater :thonk:) and many other mods we get suggestions for
@@ -30,5 +31,5 @@ We plan adding support for the [Create Mod](https://modrinth.com/mod/create), [M
 [![Compatibble with VulkanMod (Probably)](https://github.com/Nu-Git/questionmark-badges/blob/main/pridepack-4.20/Compatible%20with%20VulkanMod.png?raw=true)](https://modrinth.com/mod/vulkanmod) [![Compatible with Canvas Renderer](https://github.com/Nu-Git/questionmark-badges/blob/main/pridepack-4.20/Compatible%20with%20Canvas.png?raw=true)](https://modrinth.com/mod/canvas)
 n
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAwNTEzMDYzLDExOTQ3OTE1NjNdfQ==
+eyJoaXN0b3J5IjpbLTU3NjExNzA5NSwxMTk0NzkxNTYzXX0=
 -->
