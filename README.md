@@ -11,7 +11,8 @@ We're Pridecraft Studios: A team that makes LGBT stuff to Minecraft. We're worki
 You can join our [Discord](https://discord.pridecraft.gay) and get early features sneak-peaks, and check out the [GitHub Releases](https://github.com/Pridecraft-Studios/pridepack/releases) for betas.
 You can also join our [Patreon](instert.patreon/here) for earlier access to unannounced projects and exclusive voting power.
 ## How can I contribute?
-You can help us
+You can help us trandlate Pridepack to more languages on [Crowdin](here)
+
 ## What mods are currently supported?
 Currently, the only gayed mod is [Paladin's Furniture Mod](https://modrinth.com/mod/paladins-furniture). We're planning on gaying.
 ## Where else is this avaliable?
@@ -23,5 +24,5 @@ Currently, the only gayed mod is [Paladin's Furniture Mod](https://modrinth.com/
 [![Compatible with PFM](https://github.com/Nu-Git/questionmark-badges/blob/main/badges/1Xpng/Compatible%20with%20PFM@1x.png?raw=true)](https://modrinth.com/mod/paladins-furniture) [![Compatible with Sodium](https://github.com/Nu-Git/questionmark-badges/blob/main/badges/1Xpng/Compatible%20with%20Sodium@1x.png?raw=true)](https://modrinth.com/mod/sodium)
 [![Compatibble with VulkanMod (Probably)](https://github.com/Nu-Git/questionmark-badges/blob/main/pridepack-4.20/Compatible%20with%20VulkanMod.png?raw=true)](https://modrinth.com/mod/vulkanmod) [![Compatible with Canvas Renderer](https://github.com/Nu-Git/questionmark-badges/blob/main/pridepack-4.20/Compatible%20with%20Canvas.png?raw=true)](https://modrinth.com/mod/canvas)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQxMzkzMDYsMTE5NDc5MTU2M119
+eyJoaXN0b3J5IjpbLTE0OTcwOTY0OSwxMTk0NzkxNTYzXX0=
 -->
