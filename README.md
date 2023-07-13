@@ -1,5 +1,6 @@
 <!-- Cuties -->
 <!-- Cuties 2 -->
+<!-- Cuties 3 -->
 # PridePack
 This is PridePack. A Resource Pack made by [Pridecraft Studios](https://github.com/pridecraft-studios). We make Minecraft queer.
 We also have compatibility with some mods, such as [Paladin's Furniture Mod](https://modrinth.com/mod/paladins-furniture). If you want to see your  or any other mod be gayed without making it look like all flat rainbows, create an [Issue](https://github.com/Pridecraft-Studios/pridepack-modded/issues/new) on GitHub detailing your suggestion. New mods will go to Pridepack Modded.
