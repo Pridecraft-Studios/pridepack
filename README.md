@@ -2,6 +2,7 @@
 # PridePack
 This is PridePack. A Resource Pack made by [Pridecraft Studios](https://github.com/pridecraft-studios). We make Minecraft queer.
 We also have compatibility with some mods, such as [Paladin's Furniture Mod](https://modrinth.com/mod/paladins-furniture). If you want to see your  or any other mod be gayed without making it look like all flat rainbows, create an [Issue](https://github.com/Pridecraft-Studios/pridepack-modded/issues/new) on GitHub detailing your suggestion. New mods will go to Pridepack Modded.
+## [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W4NLJWR)
 ## Who
 We're [Pridecraft Studios](https://pridepack.gay): A team that makes LGBT stuff to Minecraft. We're working on [PridePack](https://github.com/Pridecraft-Studios/PridePack), [PrideMod](https://github.com/Pridecraft-Studios/PrideMod), [PrideSounds](https://github.com/Pridecraft-Studios/PrideSounds) and many other [projects](https://github.com/orgs/Pridecraft-Studios/repositories).
 ## How can I test new stuff out?
@@ -31,5 +32,6 @@ We plan adding support for the [Create Mod](https://modrinth.com/mod/create), [M
 [![Compatibble with VulkanMod (Probably)](https://github.com/Nu-Git/questionmark-badges/blob/main/pridepack-4.20/Compatible%20with%20VulkanMod.png?raw=true)](https://modrinth.com/mod/vulkanmod) [![Compatible with Canvas Renderer](https://github.com/Nu-Git/questionmark-badges/blob/main/pridepack-4.20/Compatible%20with%20Canvas.png?raw=true)](https://modrinth.com/mod/canvas)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDIxMDIwOTksMTE5NDc5MTU2M119
+eyJoaXN0b3J5IjpbNTI5MDA5MTE0LC0xMzQyMTAyMDk5LDExOT
+Q3OTE1NjNdfQ==
 -->
