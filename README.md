@@ -17,7 +17,7 @@ We plan adding support for the [Create Mod](https://modrinth.com/mod/create), [M
 <img src="https://github.com/Nu-Git/blurryface/blob/main/pridecraft/5.0/images/description/BIIS%20EVERYWHERE.png?raw=true">
 
 ## Where else is this avaliable?
-[![Get on Modrinth](https://github.com/Nu-Git/blurrybadges/blob/main/badges/64h/Avaliable%20on%20Modrinth.png?raw=true)](https://modrinth.com/resourcepack/pridepack) [![Get on CurseForge](https://github.com/Nu-Git/blurrybadges/blob/main/badges/64h/curseforge_vector%201.png?raw=true)](https://www.curseforge.com/minecraft/texture-packs/pride-pack) [![Get on GitHub](https://github.com/Nu-Git/blurrybadges/blob/main/badges/64h/Avaliable%20on%20Github.png?raw=true)](https://github.com/Pridecraft-Studios/pridepack) [![Stolen by TLMods](https://github.com/Nu-Git/blurrybadges/blob/main/badges/64h/Stolen%20By%20TLMods.png?raw=true)](https://tlmods.org/en/resourcepacks/pride-pack-v3/) [![Get on PMC](https://github.com/Nu-Git/blurrybadges/blob/main/badges/64h/Avaliable%20On%20PMC.png?raw=true)](https://www.planetminecraft.com/member/canalnu/) [
+[![Get on Modrinth](https://github.com/Nu-Git/blurrybadges/blob/main/badges/64h/Avaliable%20on%20Modrinth.png?raw=true)](https://modrinth.com/resourcepack/pridepack) [![Get on CurseForge](https://github.com/Nu-Git/blurrybadges/blob/main/badges/64h/curseforge_vector%201.png?raw=true)](https://www.curseforge.com/minecraft/texture-packs/pride-pack) [![Get on GitHub](https://github.com/Nu-Git/blurrybadges/blob/main/badges/64h/Avaliable%20on%20Github.png?raw=true)](https://github.com/Pridecraft-Studios/pridepack) [![Stolen by TLMods](https://github.com/Nu-Git/blurrybadges/blob/main/badges/64h/Stolen%20By%20TLMods.png?raw=true)](https://tlmods.org/en/resourcepacks/pride-pack/) [![Get on PMC](https://github.com/Nu-Git/blurrybadges/blob/main/badges/64h/Avaliable%20On%20PMC.png?raw=true)](https://www.planetminecraft.com/member/canalnu/) [
 ![Get on CurseRinth](https://github.com/Nu-Git/blurrybadges/blob/main/badges/64h/Avaliable%20on%20Curserinth.png?raw=true)](https://curserinth.kuylar.dev/resourcepack/respack__pride-pack)
 ## Socials
 [![Join the Discord](https://github.com/Nu-Git/questionmark-badges/blob/main/badges/1Xpng/Join%20the%20Discord@1x.png?raw=true)](https://discord.pridecraft.gay)
@@ -27,6 +27,6 @@ We plan adding support for the [Create Mod](https://modrinth.com/mod/create), [M
 [![Compatibble with VulkanMod (Probably)](https://github.com/Nu-Git/questionmark-badges/blob/main/pridepack-4.20/Compatible%20with%20VulkanMod.png?raw=true)](https://modrinth.com/mod/vulkanmod) [![Compatible with Canvas Renderer](https://github.com/Nu-Git/questionmark-badges/blob/main/pridepack-4.20/Compatible%20with%20Canvas.png?raw=true)](https://modrinth.com/mod/canvas)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MzY2Mzk1LC0xMzQyMTAyMDk5LDExOT
-Q3OTE1NjNdfQ==
+eyJoaXN0b3J5IjpbMTQ4NTgwOTAxNywtMTM0MjEwMjA5OSwxMT
+k0NzkxNTYzXX0=
 -->
