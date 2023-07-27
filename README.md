@@ -14,7 +14,8 @@ You can help us translate Pridepack to more laguages on [Crowdin](https://crowdi
 Currently, the only themed mod is [Paladin's Furniture Mod](https://modrinth.com/mod/paladins-furniture), which is avaliable on the base Pridepack resource pack.
 We plan adding support for the [Create Mod](https://modrinth.com/mod/create), [More Axolotl Variants Mod](https://modrinth.com/mod/mavm) (*could be added to Pridemod instead*), [Botania](https://modrinth.com/mod/botania) (gay tater :thonk:) and many other mods we get suggestions for
 ## Screenshot
-![Bees](https://github.com/Nu-Git/blurryface/blob/main/pridecraft/5.0/images/description/BIIS%20EVERYWHERE.png)
+<img src="https://github.com/Nu-Git/blurryface/blob/main/pridecraft/5.0/images/description/BIIS%20EVERYWHERE.png?raw=true">
+
 ## Where else is this avaliable?
 [![Get on Modrinth](https://github.com/Nu-Git/blurrybadges/blob/main/badges/64h/Avaliable%20on%20Modrinth.png?raw=true)](https://modrinth.com/resourcepack/pridepack) [![Get on CurseForge](https://github.com/Nu-Git/blurrybadges/blob/main/badges/64h/curseforge_vector%201.png?raw=true)](https://www.curseforge.com/minecraft/texture-packs/pride-pack) [![Get on GitHub](https://github.com/Nu-Git/blurrybadges/blob/main/badges/64h/Avaliable%20on%20Github.png?raw=true)](https://github.com/Pridecraft-Studios/pridepack) [![Stolen by TLMods](https://github.com/Nu-Git/blurrybadges/blob/main/badges/64h/Stolen%20By%20TLMods.png?raw=true)](https://tlmods.org/en/resourcepacks/pride-pack-v3/) [![Get on PMC](https://github.com/Nu-Git/blurrybadges/blob/main/badges/64h/Avaliable%20On%20PMC.png?raw=true)](https://www.planetminecraft.com/member/canalnu/) [
 ![Get on CurseRinth](https://github.com/Nu-Git/blurrybadges/blob/main/badges/64h/Avaliable%20on%20Curserinth.png?raw=true)](https://curserinth.kuylar.dev/resourcepack/respack__pride-pack)
@@ -26,6 +27,6 @@ We plan adding support for the [Create Mod](https://modrinth.com/mod/create), [M
 [![Compatibble with VulkanMod (Probably)](https://github.com/Nu-Git/questionmark-badges/blob/main/pridepack-4.20/Compatible%20with%20VulkanMod.png?raw=true)](https://modrinth.com/mod/vulkanmod) [![Compatible with Canvas Renderer](https://github.com/Nu-Git/questionmark-badges/blob/main/pridepack-4.20/Compatible%20with%20Canvas.png?raw=true)](https://modrinth.com/mod/canvas)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMTYwNjk2MCwtMTM0MjEwMjA5OSwxMT
-k0NzkxNTYzXX0=
+eyJoaXN0b3J5IjpbLTc1MzY2Mzk1LC0xMzQyMTAyMDk5LDExOT
+Q3OTE1NjNdfQ==
 -->
