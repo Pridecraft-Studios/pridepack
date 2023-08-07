@@ -3,7 +3,7 @@
 This is PridePack. A Resource Pack made by [Pridecraft Studios](https://github.com/pridecraft-studios). We make Minecraft queer.
 We also have compatibility with some mods, such as [Paladin's Furniture Mod](https://modrinth.com/mod/paladins-furniture). If you want to see your  or any other mod be gayed without making it look like all flat rainbows, create an [Issue](https://github.com/Pridecraft-Studios/pridepack-modded/issues/new) on GitHub detailing your suggestion. New mods will go to Pridepack Modded.
 ## Who
-We're [Pridecraft Studios](https://pridepack.gay): A team that makes LGBT stuff to Minecraft. We're working on [PridePack](https://github.com/Pridecraft-Studios/PridePack), [PrideMod](https://github.com/Pridecraft-Studios/PrideMod), and many other [projects](https://github.com/orgs/Pridecraft-Studios/repositories).
+We're [Pridecraft Studios](https://pridecraft.gay): A team that makes LGBT stuff to Minecraft. We're working on [PridePack](https://github.com/Pridecraft-Studios/PridePack), [PrideMod](https://github.com/Pridecraft-Studios/PrideMod), and many other [projects](https://github.com/orgs/Pridecraft-Studios/repositories).
 [![ko-fi](https://raw.githubusercontent.com/intergrav/devins-badges/1aec26abb75544baec37249f42008b2fcc0e731f/assets/cozy/donate/kofi-plural_vector.svg)](https://ko-fi.com/W7W4NLJWR)
 ## How can I test new stuff out?
 You can join our [Discord](https://discord.pridecraft.gay) and get early features sneak-peaks, or check out the [GitHub Releases](https://github.com/pridecraft-studios/pridepack)
