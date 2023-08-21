@@ -1,6 +1,6 @@
 <!-- Cuties -->
 # PridePack
-> *For information about the new versioning system, see [here](VERSIONING.md).*
+> *For information about the new versioning system, see [here](https://github.com/Pridecraft-Studios/pridepack/blob/format17/VERSIONING.md).*
 
 This is PridePack. A Resource Pack made by [Pridecraft Studios](https://git.pridecraft.gay/). We make Minecraft queer.
 We also have compatibility with some mods, such as [Paladin's Furniture Mod](https://modrinth.com/mod/paladins-furniture).
@@ -29,7 +29,8 @@ We plan adding support for the [Create Mod](https://modrinth.com/mod/create), [M
 [![Compatibble with VulkanMod (Probably)](https://github.com/Nu-Git/questionmark-badges/blob/main/pridepack-4.20/Compatible%20with%20VulkanMod.png?raw=true)](https://modrinth.com/mod/vulkanmod) [![Compatible with Canvas Renderer](https://github.com/Nu-Git/questionmark-badges/blob/main/pridepack-4.20/Compatible%20with%20Canvas.png?raw=true)](https://modrinth.com/mod/canvas)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Njc1OTUwOTYsNjE3ODYxNTcsLTMyOT
-AwMDg4NSwzMTI5Nzc0NiwxNTk5NDQzODY0LC0xMjc3NDAyMzQ1
-LDE0ODU4MDkwMTcsLTEzNDIxMDIwOTksMTE5NDc5MTU2M119
+eyJoaXN0b3J5IjpbLTE2NjMzOTMzMjUsLTE1Njc1OTUwOTYsNj
+E3ODYxNTcsLTMyOTAwMDg4NSwzMTI5Nzc0NiwxNTk5NDQzODY0
+LC0xMjc3NDAyMzQ1LDE0ODU4MDkwMTcsLTEzNDIxMDIwOTksMT
+E5NDc5MTU2M119
 -->
