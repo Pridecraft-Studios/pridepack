@@ -10,10 +10,11 @@ We're [Pridecraft Studios](https://pridecraft.gay): A team that makes LGBT stuff
 ## How can I test new stuff out?
 You can join our [Discord](https://discord.pridecraft.gay) and get early features sneak-peaks, or check out the [GitHub Releases](https://git.pridecraft.gay/PridePack)
 ## How can I contribute?
-You can help us translate Pridepack to more laguages on [Crowdin](https://crowdin.com/project/pridepack/settings) [![Crowdin](https://badges.crowdin.net/pridepack/localized.svg)](https://crowdin.com/project/pridepack)
+You can help us translate Pridepack to more laguages on [Crowdin](https://crowdin.com/project/pridepack/settings) [![Crowdin](https://badges.crowdin.net/pridepack/localized.svg)](https://crowdin.com/project/pridepack).
+You can also indirectly contribute
 ## What mods are currently supported?
 Currently, the only themed mod is [Paladin's Furniture Mod](https://modrinth.com/mod/paladins-furniture), which is avaliable on the base Pridepack resource pack.
-We plan adding support for the [Create Mod](https://modrinth.com/mod/create), [More Axolotl Variants Mod](https://modrinth.com/mod/mavm) (*could be added to Pridemod instead*), [Botania](https://modrinth.com/mod/botania) (gay tater :thonk:) and many other mods we get suggestions for. If you have an idea, send it 
+We plan adding support for the [Create Mod](https://modrinth.com/mod/create), [More Axolotl Variants Mod](https://modrinth.com/mod/mavm) (*could be added to Pridemod instead*), [Botania](https://modrinth.com/mod/botania) (gay tater :thonk:) and many other mods we get suggestions for. If you have an idea, send it [In this channel](https://canary.discord.com/channels/1091969030694375444/1105937605838770227) on our discord.
 ## Screenshot
 <img src="https://rawcdn.githack.com/Nu-Git/blurryface/433edb005503d3502d0abfae2354e993cc7b25c4/pridecraft/5.0/images/description/BIIS%20EVERYWHERE.png?raw=true">
 
@@ -28,7 +29,7 @@ We plan adding support for the [Create Mod](https://modrinth.com/mod/create), [M
 [![Compatibble with VulkanMod (Probably)](https://github.com/Nu-Git/questionmark-badges/blob/main/pridepack-4.20/Compatible%20with%20VulkanMod.png?raw=true)](https://modrinth.com/mod/vulkanmod) [![Compatible with Canvas Renderer](https://github.com/Nu-Git/questionmark-badges/blob/main/pridepack-4.20/Compatible%20with%20Canvas.png?raw=true)](https://modrinth.com/mod/canvas)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MjExNzQ5OSwtMzI5MDAwODg1LDMxMj
-k3NzQ2LDE1OTk0NDM4NjQsLTEyNzc0MDIzNDUsMTQ4NTgwOTAx
-NywtMTM0MjEwMjA5OSwxMTk0NzkxNTYzXX0=
+eyJoaXN0b3J5IjpbNjE3ODYxNTcsLTMyOTAwMDg4NSwzMTI5Nz
+c0NiwxNTk5NDQzODY0LC0xMjc3NDAyMzQ1LDE0ODU4MDkwMTcs
+LTEzNDIxMDIwOTksMTE5NDc5MTU2M119
 -->
