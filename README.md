@@ -11,7 +11,7 @@ We're [Pridecraft Studios](https://pridecraft.gay): A team that makes LGBT stuff
 You can join our [Discord](https://discord.pridecraft.gay) and get early features sneak-peaks, or check out the [GitHub Releases](https://git.pridecraft.gay/PridePack)
 ## How can I contribute?
 You can help us translate Pridepack to more laguages on [Crowdin](https://crowdin.com/project/pridepack/settings) [![Crowdin](https://badges.crowdin.net/pridepack/localized.svg)](https://crowdin.com/project/pridepack).
-You can also indirectly contribute by voting on polls on [the Discord](http
+You can also indirectly contribute by voting on polls on [the Discord](https://discord.pridecraft.gay), or [our Mastodon](https://tech.lgbt/@pridecraft)
 ## What mods are currently supported?
 Currently, the only themed mod is [Paladin's Furniture Mod](https://modrinth.com/mod/paladins-furniture), which is avaliable on the base Pridepack resource pack.
 We plan adding support for the [Create Mod](https://modrinth.com/mod/create), [More Axolotl Variants Mod](https://modrinth.com/mod/mavm) (*could be added to Pridemod instead*), [Botania](https://modrinth.com/mod/botania) (gay tater :thonk:) and many other mods we get suggestions for. If you have an idea, send it [In this channel](https://canary.discord.com/channels/1091969030694375444/1105937605838770227) on our discord.
@@ -29,7 +29,7 @@ We plan adding support for the [Create Mod](https://modrinth.com/mod/create), [M
 [![Compatibble with VulkanMod (Probably)](https://github.com/Nu-Git/questionmark-badges/blob/main/pridepack-4.20/Compatible%20with%20VulkanMod.png?raw=true)](https://modrinth.com/mod/vulkanmod) [![Compatible with Canvas Renderer](https://github.com/Nu-Git/questionmark-badges/blob/main/pridepack-4.20/Compatible%20with%20Canvas.png?raw=true)](https://modrinth.com/mod/canvas)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyODQ4OTE1NSw2MTc4NjE1NywtMzI5MD
-AwODg1LDMxMjk3NzQ2LDE1OTk0NDM4NjQsLTEyNzc0MDIzNDUs
-MTQ4NTgwOTAxNywtMTM0MjEwMjA5OSwxMTk0NzkxNTYzXX0=
+eyJoaXN0b3J5IjpbLTE1Njc1OTUwOTYsNjE3ODYxNTcsLTMyOT
+AwMDg4NSwzMTI5Nzc0NiwxNTk5NDQzODY0LC0xMjc3NDAyMzQ1
+LDE0ODU4MDkwMTcsLTEzNDIxMDIwOTksMTE5NDc5MTU2M119
 -->
