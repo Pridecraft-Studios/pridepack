@@ -8,12 +8,12 @@ We also have compatibility with some mods, such as [Paladin's Furniture Mod](htt
 We're [Pridecraft Studios](https://pridecraft.gay): A team that makes LGBT stuff to Minecraft. We're working on [PridePack](https://git.pridecraft.gay/PridePack), [PrideMod](https://git.pridecraft.gay/PrideMod), and many other [projects](https://github.com/orgs/Pridecraft-Studios/repositories).
 [![ko-fi](https://rawcdn.githack.com/intergrav/devins-badges/1aec26abb75544baec37249f42008b2fcc0e731f/assets/cozy/donate/kofi-plural_vector.svg)](https://ko-fi.com/W7W4NLJWR)
 ## How can I test new stuff out?
-You can join our [Discord](https://discord.pridecraft.gay) and get early features sneak-peaks, or check out the [GitHub Releases](https://github.com/pridecraft-studios/pridepack)
+You can join our [Discord](https://discord.pridecraft.gay) and get early features sneak-peaks, or check out the [GitHub Releases](https://git.pridecraft.gay/PridePack)
 ## How can I contribute?
 You can help us translate Pridepack to more laguages on [Crowdin](https://crowdin.com/project/pridepack/settings) [![Crowdin](https://badges.crowdin.net/pridepack/localized.svg)](https://crowdin.com/project/pridepack)
 ## What mods are currently supported?
 Currently, the only themed mod is [Paladin's Furniture Mod](https://modrinth.com/mod/paladins-furniture), which is avaliable on the base Pridepack resource pack.
-We plan adding support for the [Create Mod](https://modrinth.com/mod/create), [More Axolotl Variants Mod](https://modrinth.com/mod/mavm) (*could be added to Pridemod instead*), [Botania](https://modrinth.com/mod/botania) (gay tater :thonk:) and many other mods we get suggestions for
+We plan adding support for the [Create Mod](https://modrinth.com/mod/create), [More Axolotl Variants Mod](https://modrinth.com/mod/mavm) (*could be added to Pridemod instead*), [Botania](https://modrinth.com/mod/botania) (gay tater :thonk:) and many other mods we get suggestions for. If you have an idea, send it 
 ## Screenshot
 <img src="https://rawcdn.githack.com/Nu-Git/blurryface/433edb005503d3502d0abfae2354e993cc7b25c4/pridecraft/5.0/images/description/BIIS%20EVERYWHERE.png?raw=true">
 
@@ -28,7 +28,7 @@ We plan adding support for the [Create Mod](https://modrinth.com/mod/create), [M
 [![Compatibble with VulkanMod (Probably)](https://github.com/Nu-Git/questionmark-badges/blob/main/pridepack-4.20/Compatible%20with%20VulkanMod.png?raw=true)](https://modrinth.com/mod/vulkanmod) [![Compatible with Canvas Renderer](https://github.com/Nu-Git/questionmark-badges/blob/main/pridepack-4.20/Compatible%20with%20Canvas.png?raw=true)](https://modrinth.com/mod/canvas)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NjEzMjQwMCwtMzI5MDAwODg1LDMxMj
+eyJoaXN0b3J5IjpbLTg5MjExNzQ5OSwtMzI5MDAwODg1LDMxMj
 k3NzQ2LDE1OTk0NDM4NjQsLTEyNzc0MDIzNDUsMTQ4NTgwOTAx
 NywtMTM0MjEwMjA5OSwxMTk0NzkxNTYzXX0=
 -->
