@@ -29,8 +29,8 @@ We plan adding support for the [Create Mod](https://modrinth.com/mod/create), [M
 [![Compatibble with VulkanMod (Probably)](https://github.com/Nu-Git/questionmark-badges/blob/main/pridepack-4.20/Compatible%20with%20VulkanMod.png?raw=true)](https://modrinth.com/mod/vulkanmod) [![Compatible with Canvas Renderer](https://github.com/Nu-Git/questionmark-badges/blob/main/pridepack-4.20/Compatible%20with%20Canvas.png?raw=true)](https://modrinth.com/mod/canvas)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjMzOTMzMjUsLTE1Njc1OTUwOTYsNj
-E3ODYxNTcsLTMyOTAwMDg4NSwzMTI5Nzc0NiwxNTk5NDQzODY0
-LC0xMjc3NDAyMzQ1LDE0ODU4MDkwMTcsLTEzNDIxMDIwOTksMT
-E5NDc5MTU2M119
+eyJoaXN0b3J5IjpbLTIwNjM0NDM2OTMsLTE2NjMzOTMzMjUsLT
+E1Njc1OTUwOTYsNjE3ODYxNTcsLTMyOTAwMDg4NSwzMTI5Nzc0
+NiwxNTk5NDQzODY0LC0xMjc3NDAyMzQ1LDE0ODU4MDkwMTcsLT
+EzNDIxMDIwOTksMTE5NDc5MTU2M119
 -->
