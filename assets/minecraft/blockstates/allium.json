@@ -1,0 +1,26 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/allium",
+        "weight": 1000
+      },
+      {
+        "model": "minecraft:block/allium_trans_1",
+        "weight": 30
+      },
+      {
+        "model": "minecraft:block/allium_trans_2",
+        "weight": 30
+      },
+      {
+        "model": "minecraft:block/allium_trans_3",
+        "weight": 30
+      },
+      {
+        "model": "minecraft:block/allium_trans_4",
+        "weight": 1
+      }
+    ]
+  }
+}
