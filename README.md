@@ -12,10 +12,9 @@ We're [Pridecraft Studios](https://pridecraft.gay): A team that makes LGBT conte
 [![ko-fi](https://rawcdn.githack.com/intergrav/devins-badges/1aec26abb75544baec37249f42008b2fcc0e731f/assets/cozy/donate/kofi-plural_vector.svg)](https://ko-fi.com/W7W4NLJWR)
 # Screenshots
 
-![biis](https://pridecraft.gay/assets/img/biis-lossy.avif)
-![biis in the jungle](https://pridecraft.gay/assets/img/bii-jungle-lossy.avif)
-![trans allium](https://pridecraft.gay/assets/img/trans-allium-lossy.avif)
-![old paintings](https://pridecraft.gay/assets/img/old-paintings-lossy.avif)
+![A few biis pollinating a flower with glow berries on the background](https://cdn.modrinth.com/data/yPbBrzEX/images/f74e7f243502e23ec6f8805d38a4c6a5a06df292.png)
+![Six pride flag themed paitings on the walls of a Lush Cave](https://cdn.modrinth.com/data/yPbBrzEX/images/f1798d383e8654db8ad0f4f8702a8d2401740e1a.png)
+![A group of biis, many of the baby variant, pollinating an Azalea Bush.](https://cdn.modrinth.com/data/yPbBrzEX/images/117a6d9341620d97ba32b31c45677019e764d635.png)
 ## How can I test new stuff out?
 You can join [our Discord](https://discord.pridecraft.gay) or follow [our Mastodon](https://tech.lgbt/@pridecraft) and get early features sneak-peaks, or check out the [GitHub Releases](https://git.pridecraft.gay/PridePack) for pre-releases. We'll post early unreleased content, such as early alpha PrideMod releases on [our Ko-Fi](https://ko-fi.com/W7W4NLJWR)
 ## How can I contribute?
