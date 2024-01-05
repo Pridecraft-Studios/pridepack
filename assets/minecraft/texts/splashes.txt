@@ -1,5 +1,5 @@
 Pridecraft Studios!
-Can This Massive As Heck Text Even Be Displayed On The Minecraft 1.13-1.19.3 Main Menu Splash Screen Without Changing Any GUI Scale Settings? I Don't Think So. Hopefully This Doesn't Cause Lag! Well, it cant, it looks like a pixelated non-aliased line. Well, I haven't tested it on 4K, but I guess I'm finding if it works on 4K 9 hours before 5.0 releases! Also now im making it longer for 5.1 (real)
+Can This Massive As Heck Text Even Be Displayed On The Minecraft 1.13-1.19.3 Main Menu Splash Screen Without Changing Any GUI Scale Settings? I Don't Think So. Hopefully This Doesn't Cause Lag! Well, it cant, it looks like a pixelated non-aliased line. Well, I haven't tested it on 4K, but I guess I'm finding if it works on 4K 9 hours before 5.0 releases! Also now im making it longer for 5.1 (real) Yes, i made it even longer for [next major release] (real)
 Made by Blurryface!
 Made by Pridecraft Studios!
 Made by Sake!
