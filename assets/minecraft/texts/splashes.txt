@@ -1,5 +1,5 @@
 Pridecraft Studios!
-Can This Massive As Heck Text Even Be Displayed On The Minecraft 1.13-1.19.3 Main Menu Splash Screen Without Changing Any GUI Scale Settings? I Don't Think So. Hopefully This Doesn't Cause Lag! Well, it cant, it looks like a pixelated non-aliased line. Well, I haven't tested it on 4K, but I guess I'm finding if it works on 4K 9 hours before 5.0 releases! Also now im making it longer for 5.1 (real) Yes, i made it even longer for [next major release] (real)
+Can This Massive As Heck Text Even Be Displayed On The Minecraft 1.13-1.19.3 Main Menu Splash Screen Without Changing Any GUI Scale Settings? I Don't Think So. Hopefully This Doesn't Cause Lag! Well, it cant, it looks like a pixelated non-aliased line. Well, I haven't tested it on 4K, but I guess I'm finding if it works on 4K 9 hours before 5.0 releases! Also now im making it longer for 5.1 (real) Yes, i made it even longer for [next major release] (real) I think we should Elongate Muskrät this line every time we add a new splash.
 Made by Blurryface!
 Made by Pridecraft Studios!
 Made by Sake!
@@ -105,7 +105,8 @@ Check out Pridepack Legacy!
 Check out Pridepack Original!
 Stolen by 9Minecraft!
 Stolen by TLMods!
-WE PUT CHEMICALS IN THE WATER!
-WE TURNED THE FRICKIN FROGS GAY!
+WE PUT CHEMICALS IN THE WATER! (canceled)
+WE TURNED THE FRICKIN FROGS GAY! (canceled)
 Brushes are less saturated now!
 Pink is a nice color honestly
+discord.gg/pridecraft
