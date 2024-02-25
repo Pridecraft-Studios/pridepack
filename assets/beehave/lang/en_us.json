@@ -1,0 +1,7 @@
+{
+    "message.chat.beehive.empty": "No bii in [x=%d, y=%d, z=%d]",
+    "message.chat.beehive.title": "%d bii(s) in [x=%d, y=%d, z=%d]",
+    "message.command.beehave.title": "Biihave settings overview",
+    "message.command.beehave.info.bee": "Enable information display when right-click on biis",
+    "message.command.beehave.info.beehive": "Enable information display when right-click on biihives"
+}
