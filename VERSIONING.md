@@ -1,9 +1,9 @@
 # PridePack Versioning
 The versioning shall consist of three elements:
-- Pack Version `P.u.f`
-- Update Version `p.U.f`
-- Fix Version `p.u.F`
+- Major Version `M.u.f`
+- Update Version `m.U.f`
+- Fix Version `m.u.F`
 
-With `pack` corresponding to Minecraft's resource pack format, and the other ones following [`semver`](https://semver.org)
+With `major` being bumped in relation to Minecraft's major release, and the other ones following [`semver`](https://semver.org)
 
-*The new versioning system will be applied on the *would be* 6.0 update.*
+For example, in 1.21, the first release is 6.0.0. If we had released a version for 1.20.6, the next version would be 5.2.
