@@ -123,7 +123,6 @@ donate.pridecraft.gay!
 translate.pridecraft.gay!
 discord.pridecraft.gay!
 pridecraft.gay!
-More than 2000 downloads!
 At least 220 commits!
 [as]
 [AS]
@@ -146,3 +145,5 @@ joy.ogg
 Happy Pride Month 2024!
 ptide month!
 I think I'm gay.
+2000 Downloads on Modrinth!
+5000 Downloads!
