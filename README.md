@@ -7,8 +7,6 @@
 ![Modrinth Downloads](https://img.shields.io/modrinth/dt/yPbBrzEX?logo=modrinth&label=Modrinth%20downloads&color=%231bd96a&style=for-the-badge) ![CurseForge Downloads](https://img.shields.io/curseforge/dt/831872?logo=curseforge&label=CurseForge%20Downloads&color=%23f16436&style=for-the-badge) ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/pridecraft-studios/pridepack/total?style=for-the-badge&logo=github&label=Github%20Downloads) ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/pridecraft-studios/pridepack?style=for-the-badge&logo=github) 
 
 This is Pridepack. A Resource Pack made by [Pridecraft Studios](https://git.pridecraft.gay/). We make Minecraft queer.
-<!-- We also have compatibility with some mods, such
-as [Paladin's Furniture Mod](https://modrinth.com/mod/paladins-furniture). -->
 
 ## Who
 
@@ -40,7 +38,7 @@ You can join our [Discord](https://discord.pridecraft.gay) and get early feature
 or check out the [GitHub Releases](https://git.pridecraft.gay/PridePack)
 ## How can I contribute?
 
-You can help us translate Pridepack to more laguages on [Crowdin](https://crowdin.com/project/pridepack/settings) <a href="https://crowdin.com/project/pridepack" title="Crowdin"><img src="https://badges.crowdin.net/pridepack/localized.svg" alt="Crowdin"/></a>
+You can help us translate Pridepack to more laguages on [Crowdin](https://crowdin.com/project/pridepack/) <a href="https://crowdin.com/project/pridepack" title="Crowdin"><img src="https://badges.crowdin.net/pridepack/localized.svg" alt="Crowdin"/></a>
 
 You can also indirectly contribute by voting on polls on [the Discord](https://discord.pridecraft.gay), or [our Mastodon](https://tech.lgbt/@pridecraft)
 
