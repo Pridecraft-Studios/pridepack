@@ -6,5 +6,13 @@
           "stream": true
         }
       ]
+    },
+    "music.ambient": {
+      "sounds": [
+        {
+          "name": "music/ambient/melancolie",
+          "stream": true
+        }
+      ]
     }
   }
