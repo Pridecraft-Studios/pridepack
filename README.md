@@ -6,7 +6,7 @@ This is PridePack, a Resource Pack made by [Pridecraft Studios](https://pridecra
 ## Donate
 You can support the developers of Pridecraft Studios by donating on Patreon
 
-[![patreon](https://github.com/intergrav/devins-badges/blob/v3/assets/cozy/donate/patreon-plural_64h.png?raw=true)](https://donate.pridecraft.gay)
+[![patreon](https://raw.githubusercontent.com/intergrav/devins-badges/c7fd18efdadd1c3f12ae56b49afd834640d2d797/assets/cozy/donate/patreon-singular_vector.svg)](https://donate.pridecraft.gay)
 
 ## Screenshots
 
@@ -28,12 +28,12 @@ We make Resource Packs and mods to add LGBT themed stuff to the game, while tryi
 
 ## Other Downloads
 
-[![Download on Modrinth](https://raw.githubusercontent.com/intergrav/devins-badges/v3/assets/compact-minimal/available/modrinth_46h.png)](https://modrinth.com/project/pridepack) [![Download on CurseForge](https://raw.githubusercontent.com/intergrav/devins-badges/v3/assets/compact-minimal/available/curseforge_46h.png)](https://www.curseforge.com/minecraft/texture-packs/pride-pack) [![Check out the GitHub](https://raw.githubusercontent.com/intergrav/devins-badges/v3/assets/compact-minimal/available/github_46h.png)](https://git.pridecraft.gay/pridepack)
+[![Download on Modrinth](https://raw.githubusercontent.com/intergrav/devins-badges/c7fd18efdadd1c3f12ae56b49afd834640d2d797/assets/cozy-minimal/available/modrinth_vector.svg)](https://modrinth.com/project/pridepack) [![Download on CurseForge](https://raw.githubusercontent.com/intergrav/devins-badges/c7fd18efdadd1c3f12ae56b49afd834640d2d797/assets/cozy-minimal/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft/texture-packs/pride-pack) [![Check out the GitHub](https://raw.githubusercontent.com/intergrav/devins-badges/c7fd18efdadd1c3f12ae56b49afd834640d2d797/assets/cozy-minimal/available/github_vector.svg)](https://git.pridecraft.gay/pridepack)
 ## Socials
-[![Join our Discord](https://raw.githubusercontent.com/intergrav/devins-badges/v3/assets/compact/social/discord-plural_46h.png)](https://discord.pridecraft.gay)
-[![Chat with us on Mastodon](https://raw.githubusercontent.com/intergrav/devins-badges/v3/assets/compact/social/mastodon-plural_46h.png)](https://tech.lgbt/@pridecraft)
-[![Watch us on Youtube](https://raw.githubusercontent.com/intergrav/devins-badges/v3/assets/compact/social/youtube-plural_46h.png)](https://youtube.com/@pridecraftstudios)
-[![Chat with us on Twitter](https://raw.githubusercontent.com/intergrav/devins-badges/v3/assets/compact/social/twitter-plural_46h.png)](https://x.com/pridecraftreal)
+[![Join our Discord](https://raw.githubusercontent.com/intergrav/devins-badges/c7fd18efdadd1c3f12ae56b49afd834640d2d797/assets/compact/social/discord-plural_vector.svg)](https://discord.pridecraft.gay)
+[![Chat with us on Mastodon](https://raw.githubusercontent.com/intergrav/devins-badges/c7fd18efdadd1c3f12ae56b49afd834640d2d797/assets/compact/social/mastodon-plural_vector.svg)](https://tech.lgbt/@pridecraft)
+[![Watch us on Youtube](https://raw.githubusercontent.com/intergrav/devins-badges/c7fd18efdadd1c3f12ae56b49afd834640d2d797/assets/compact/social/youtube-plural_vector.svg)](https://youtube.com/@pridecraftstudios)
+[![Chat with us on Twitter](https://raw.githubusercontent.com/intergrav/devins-badges/c7fd18efdadd1c3f12ae56b49afd834640d2d797/assets/compact/social/twitter-plural_vector.svg)](https://x.com/pridecraftreal)
 [![Chat with us on Bluesky](https://badger-api-staging.worldwidepixel.ca/compact?gradientStart=00A5E4&gradientEnd=0076B1&lineOne=Chat%20with%20us%20on&lineTwo=Bluesky&colourOne=FFFFFF&colourTwo=FFFFFF&iconUrl=https://raw.githubusercontent.com/OzzyCzech/bluesky-icon/main/dist/bluesky-icon.white.png)](https://bsky.app/profile/pridecraft.gay)
 [![Chat with us on Threads](https://badger-api-staging.worldwidepixel.ca/compact?gradientStart=1B1B1B&gradientEnd=000000&lineOne=Chat%20with%20us%20on&lineTwo=Threads&colourOne=FFFFFF&colourTwo=FFFFFF&iconUrl=https://engineering.fb.com/wp-content/uploads/2024/01/threads-app-icon.png)](https://threads.net/@pridecraftstudios) [![Check out our Instagram](https://badger-api-staging.worldwidepixel.ca/compact?gradientStart=BA5353&gradientEnd=61003D&lineOne=Check%20out%20our&lineTwo=Instagram&colourOne=FFFFFF&colourTwo=FFF&iconUrl=https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/instagram-white-icon.png)](https://instagram.com/pridecraftstudios)
 
