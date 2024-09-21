@@ -1,0 +1,45 @@
+name: Update Crowdin strings bi-directionally
+
+run-name: Update from Crowdin
+
+on:
+  schedule:
+    - cron: "30 */3 * * *"
+  push:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  update-from-crowdin:
+    name: Update strings from Crowdin
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Grab strings from Crowdin
+        uses: crowdin/github-action@v2.1.1
+        with: # This part can be a little fragile, be careful!
+          upload_sources: true
+          upload_translations: false
+          upload_language: en
+          download_sources: false
+          download_translations: true
+          skip_untranslated_strings: true
+          source: assets/minecraft/lang/en_us
+          translation: i18n/lang/%locale%.json
+          export_only_approved: true
+          localization_branch_name: auto-i18n-branch
+          create_pull_request: true
+          pull_request_title: (Crowdin Action) New translation strings
+          pull_request_body: New translated strings are now available!
+          pull_request_labels: crowdin
+          github_user_name: Crowdin Bot (Actions)
+          github_user_email: support+bot@crowdin.com
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CROWDIN_PROJECT_ID: ${{ secrets.CROWDIN_PROJECT_ID }}
+          CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_PERSONAL_TOKEN }}
