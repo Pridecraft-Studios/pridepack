@@ -3,9 +3,6 @@ name: Update Crowdin strings bi-directionally
 run-name: Update from Crowdin
 
 on:
-  schedule:
-    - cron: "30 */3 * * *"
-  push:
   workflow_dispatch:
 
 permissions:
