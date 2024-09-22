@@ -21,11 +21,11 @@ jobs:
         with:
           ref: "main"
 
-      - name: Pass secrets as an output
-        id: secrets
+      - name: Set environment variables
+        id: set-secrets
         run: |
-          echo "PROJECT_ID=$(awk '{$1=$1};1' <<< ${{ secrets.CROWIN_PROJECT_ID }})" >> $GITHUB_OUTPUT
-          echo "API_TOKEN=$(awk '{$1=$1};1' <<< ${{ secrets.CROWDIN_TOKEN_THING }})" >> $GITHUB_OUTPUT
+            echo "CROWDIN_PROJECT_ID=${{ secrets.CROWIN_PROJECT_ID }}" >> $GITHUB_ENV
+            echo "CROWDIN_API_TOKEN=${{ secrets.CROWDIN_TOKEN_THING }}" >> $GITHUB_ENV
 
       - name: Grab strings from Crowdin
         uses: crowdin/github-action@v2.1.1
