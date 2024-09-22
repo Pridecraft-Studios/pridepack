@@ -39,9 +39,6 @@ jobs:
           pull_request_base_branch_name: "main"
           github_user_name: Crowdin Bot (Actions)
           github_user_email: support+bot@crowdin.com
-        env:
-          CROWDIN_PROJECT_ID: ${{ steps.secrets.outputs.PROJECT_ID }}
-          CROWDIN_API_TOKEN: ${{ steps.secrets.outputs.API_TOKEN }}
 
       - name: Debug - check directory
         run: ls
