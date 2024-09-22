@@ -1,5 +1,5 @@
 project_id: "${{ env.CROWDIN_PROJECT_ID }}"
-apit_token: "${{ env.CROWDIN_API_TOKEN }}"
+api_token: "${{ env.CROWDIN_API_TOKEN }}"
 
 files:
   - source: /assets/minecraft/lang/en_us.json
