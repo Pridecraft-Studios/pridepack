@@ -1,3 +1,18 @@
+project_id_env: CROWDIN_PROJECT_ID
+api_token_env: CROWDIN_API_TOKEN
+
 files:
-  - source: /assets/minecraft/lang/*.json
-    translation: /assets/minecraft/lang-crowdin/%two_letters_code%.json
+  - source: /assets/minecraft/lang/en_us.json
+    translation: /assets/minecraft/lang-crowdin/%locale_with_underscore%.json
+    language_mapping:
+      locale_with_underscore: # ABSOLULTELY DO NOT CHANGE THIS
+        de: de_de
+        en-UD: en_ud
+        es-ES: es_es
+        fr: fr_fr
+        lol-US: lol_us
+        pt-BR: pt_br
+        ru: ru_ru
+    upload_language: en
+    skip_untranslated_strings: false
+    export_only_approved: false
