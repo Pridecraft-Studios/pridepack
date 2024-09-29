@@ -8,6 +8,10 @@ You can support the developers of Pridecraft Studios by donating on Patreon
 
 [![patreon](https://raw.githubusercontent.com/intergrav/devins-badges/c7fd18efdadd1c3f12ae56b49afd834640d2d797/assets/cozy/donate/patreon-singular_vector.svg)](https://donate.pridecraft.gay)
 
+<!-- Remove the html comment when posting on Modrinth, Curse or MCPEDL
+
+<iframe src="https://www.youtube.com/embed/ZyazvpZAmGU?autoplay=1&rel=0" width="560" height="315" title="Pridepack Trailer" frameborder="0" allowfullscreen></iframe> -->
+
 ## Screenshots
 
 ![Various Pridepack features sitting on a colourful surface.](https://cdn.modrinth.com/data/yPbBrzEX/images/bd6216e3669d2290f943be8ded4ad478a6ec2ce6.png)
