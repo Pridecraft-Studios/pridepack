@@ -5,7 +5,7 @@
 files:
   - source: /assets/minecraft/lang/en_us.json
     translation: /assets/minecraft/lang/%locale_with_underscore%.json
-    language_mapping:
+    languages_mapping:
       locale_with_underscore: # ABSOLULTELY DO NOT CHANGE THIS
         de: de_de
         en-UD: en_ud
