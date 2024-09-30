@@ -3,6 +3,9 @@ name: Update Crowdin strings bi-directionally
 run-name: Update from Crowdin
 
 on:
+  push:
+  schedule:
+    - cron: "30 */3 * * *"
   workflow_dispatch:
 
 permissions:
@@ -18,6 +21,8 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          ref: "main"
 
       - name: Grab strings from Crowdin
         uses: crowdin/github-action@v2.1.1
