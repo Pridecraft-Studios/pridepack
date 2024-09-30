@@ -7,14 +7,13 @@ files:
     translation: /assets/minecraft/lang/%locale_with_underscore%.json
     language_mapping:
       locale_with_underscore: # ABSOLULTELY DO NOT CHANGE THIS
-        en_us: en-US
-        de_de: de
-        en_ud: en-UD
-        es_es: es-ES
-        fr_fr: fr
-        lol_us: lol-US
-        pt_br: pt-BR
-        ru_ru: ru
+        de: de_de
+        en-UD: en_ud
+        es-ES: es_es
+        fr: fr_fr
+        lol: lol_us
+        pt-BR: pt_br
+        ru: ru_ru
     upload_language: en
     skip_untranslated_strings: false
     export_only_approved: false
