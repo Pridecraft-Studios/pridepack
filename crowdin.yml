@@ -14,6 +14,5 @@ files:
         lol: lol_us
         pt-BR: pt_br
         ru: ru_ru
-    upload_language: en
     skip_untranslated_strings: false
     export_only_approved: false

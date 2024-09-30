@@ -21,8 +21,6 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
-        with:
-          ref: "main"
 
       - name: Grab strings from Crowdin
         uses: crowdin/github-action@v2.1.1
@@ -30,6 +28,7 @@ jobs:
           upload_sources: true
           upload_translations: false
           download_translations: true
+          upload_language: en
           localization_branch_name: auto-i18n-branch
           create_pull_request: true
           pull_request_title: (Crowdin Action) New translation strings
