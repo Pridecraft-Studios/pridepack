@@ -18,14 +18,6 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
-        with:
-          ref: "main"
-
-      - name: Set environment variables
-        id: set-secrets
-        run: |
-            echo "CROWDIN_PROJECT_ID=${{ secrets.CROWIN_PROJECT_ID }}" >> $GITHUB_ENV
-            echo "CROWDIN_API_TOKEN=${{ secrets.CROWDIN_TOKEN_THING }}" >> $GITHUB_ENV
 
       - name: Grab strings from Crowdin
         uses: crowdin/github-action@v2.1.1
@@ -39,6 +31,11 @@ jobs:
           pull_request_base_branch_name: "main"
           github_user_name: Crowdin Bot (Actions)
           github_user_email: support+bot@crowdin.com
+          skip_checkout_ref: false
+        env:
+          CROWDIN_PROJECT_ID: ${{ secrets.CROWIN_PROJECT_ID }}
+          CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_TOKEN_THING }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Debug - check directory
         run: ls
