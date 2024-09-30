@@ -36,7 +36,7 @@ jobs:
           pull_request_base_branch_name: "main"
           github_user_name: Crowdin Bot (Actions)
           github_user_email: support+bot@crowdin.com
-          skip_ref_checkout: false
+          skip_ref_checkout: true
         env:
           CROWDIN_PROJECT_ID: ${{ secrets.CROWIN_PROJECT_ID }}
           CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_TOKEN_THING }}
