@@ -3,5 +3,16 @@
     "pack_format": 15,
     "supported_formats": [15, 9999],
     "description": "§cPr§6id§eep§2ac§9k 7§5.0 §r| Joy Update!"
+  },
+ "overlays": {
+    "entries": [
+      {
+        "formats": [
+          16,
+          9999
+        ],
+        "directory": "format16"
+      }
+    ]
   }
 }
