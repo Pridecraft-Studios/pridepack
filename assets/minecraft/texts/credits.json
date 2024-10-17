@@ -938,7 +938,7 @@
                     {
                         "title": "Music composed by",
                         "names": [
-                            "Aaron Cherof ",
+                            "Aaron Cherof",
                             "Daniel Rosenfeld",
                             "Kumi Tanioka",
                             "Lena Raine"
@@ -1235,6 +1235,7 @@
                             "Mikołaj Błażejewski (Lionbridge)",
                             "Mikołaj Gruźliński (Lionbridge)",
                             "Mikołaj Pawlak (Lionbridge)",
+                            "Mikołaj Szadkowski (Lionbridge)",
                             "Mykhailo Prokhorov (Lionbridge)",
                             "Nicholas Latino",
                             "Nikola Janiak (Lionbridge)",
@@ -4358,62 +4359,72 @@
     },
     {
         "section": "Pridecraft Studios",
-        "disciplines": [
-            {
-                "discipline": "",
-                "titles": [
-                    {
-                        "title": "Texture Pack Devs",
-                        "names": [
-                            "Blurryface",
-                            "Sake",
-                            "WorldWidePixel",
-                            "AmpFlower",
-                            "Laxystem",
-                            "NormalFery",
-                            "RowanDev",
-                            "exhq",
-                            "Sekalol15",
-                            "SympathyTea"
-                        ]
-                    },
-                    {
-                        "title": "Joy Soundtrack",
-                        "names": [
-                            "WorldWidePixel"
-                        ]
-                    },
-                    {
-                        "title": "Web Developers",
-                        "names": [
-                            "Skyevg",
-                            "Sake",
-                            "WorldWidePixel",
-                            "AmpFlower",
-                            "KTrain"
-                        ]
-                    },
-                    {
-                        "title": "Bedrock Port",
-                        "names": [
-                            "WorldWidePixel (PridePack)",
-                            "Sake (PridePack)",
-                            "Blurryface (PridePack)",
-                            "NormalFery (PrideGUI)",
-                            "TheClashFruit (Pie)"
-                        ]
-                    },
-                    {
-                         "title": "Joy Mod developers",
-                         "names": [
-                            "Wolren",
-                            "TheClashFruit",
-                            "Blurryface",
-                            "NormalFery",
-                            "RowanDev"
-                    }
-                ]
-            }
-        ]
+        "disciplines": {
+            "discipline:" : "",
+            "titles": [
+                {
+                    "title": "Management",
+                    "names": [
+                        "Blurryface",
+                        "Sake",
+                        "WorldWidePixel"
+                    ]
+                },
+                {
+                    "title": "Texture Artists",
+                    "names": [
+                        "Ampflower",
+                        "amy",
+                        "Blurryface",
+                        "Fery",
+                        "Laxla",
+                        "Lupancham",
+                        "polycord",
+                        "rotgruengelb",
+                        "Sake",
+                        "SympathyTea",
+                        "WorldWidePixel"
+                    ]
+                },
+                {
+                    "title": "Software Engineers",
+                    "names": [
+                        "Ampflower",
+                        "Blurryface",
+                        "KTrain",
+                        "TheClashFruit",
+                        "Wolren"
+                    ]
+                },
+                {
+                    "title": "System Admins",
+                    "names": [
+                        "Ampflower",
+                        "Skye"
+                    ]
+                },
+                {
+                    "title": "Web Developers",
+                    "names": [
+                        "Ampflower",
+                        "KTrain",
+                        "Skye",
+                        "WorldWidePixel"
+                    ]
+                },
+                {
+                    "title": "Music Artists",
+                    "names": [
+                        "WorldWidePixel"
+                    ]
+                },
+                {
+                    "title": "Quality Assurance",
+                    "names": [
+                        "ThinkSeal"
+                    ]
+                }
+            ]
+        }
     }
 ]
