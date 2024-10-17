@@ -4373,7 +4373,8 @@
                             "NormalFery",
                             "RowanDev",
                             "exhq",
-                            "Sekalol15"
+                            "Sekalol15",
+                            "SympathyTea"
                         ]
                     },
                     {
@@ -4388,7 +4389,8 @@
                             "Skyevg",
                             "Sake",
                             "WorldWidePixel",
-                            "AmpFlower"
+                            "AmpFlower",
+                            "KTrain"
                         ]
                     },
                     {
@@ -4397,8 +4399,18 @@
                             "WorldWidePixel (PridePack)",
                             "Sake (PridePack)",
                             "Blurryface (PridePack)",
-                            "NormalFery (PrideGUI)"
+                            "NormalFery (PrideGUI)",
+                            "TheClashFruit (Pie)"
                         ]
+                    },
+                    {
+                         "title": "Joy Mod developers",
+                         "names": [
+                            "Wolren",
+                            "TheClashFruit",
+                            "Blurryface",
+                            "NormalFery",
+                            "RowanDev"
                     }
                 ]
             }
