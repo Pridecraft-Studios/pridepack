@@ -36,13 +36,14 @@ Temporary Items
 pridepack-dev.zip
 assets/minecraft/textures/entity/axolotl/axolotl_cyan.png
 assets/minecraft/textures/gui/title/background/NEWpanorama-1.png
-/.idea/
 *.pdn
 *.xcf
-pridepack-5.0-dev.zip
-pridepack-5.0-dev.zip_bruh
+*.zip_bruh
 *.psd
 *.zip
 .bbprojects/
 .bbmodels/
 .local/
+.idea/
+.vscode/
+tmp/
