@@ -28,21 +28,13 @@ Temporary Items
 .apdisk
 
 # other non-macos stuff
--icons/
-*.mp4
-*.raw
-*.avif
-.FuturePack/
-pridepack-dev.zip
-assets/minecraft/textures/entity/axolotl/axolotl_cyan.png
-assets/minecraft/textures/gui/title/background/NEWpanorama-1.png
 *.pdn
 *.xcf
 *.zip_bruh
 *.psd
 *.zip
-.bbprojects/
-.bbmodels/
+*.bbproject
+*.bbmodel
 .local/
 .idea/
 .vscode/
