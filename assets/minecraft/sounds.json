@@ -12,6 +12,14 @@
         {
           "name": "music/ambient/melancolie",
           "stream": true
+        },
+        {
+          "name": "music/ambient/douglas",
+          "stream": true
+        },
+        {
+          "name": "music/ambient/regina",
+          "stream": true
         }
       ]
     }
