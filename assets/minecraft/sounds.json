@@ -7,20 +7,28 @@
         }
       ]
     },
-    "music.ambient": {
+    "music.game": {
       "sounds": [
         {
-          "name": "music/ambient/melancolie",
+          "name": "music/game/melancolie",
           "stream": true
         },
         {
-          "name": "music/ambient/douglas",
+          "name": "music/game/douglas",
           "stream": true
         },
         {
-          "name": "music/ambient/regina",
+          "name": "music/game/regina",
           "stream": true
         }
       ]
-    }
-  }
+    },
+    "music.creative": {
+        "sounds": [
+          {
+            "name": "music/game/creative/reminiscence",
+            "stream": true
+          }
+        ]
+      }
+}
