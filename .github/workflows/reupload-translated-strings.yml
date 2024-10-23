@@ -15,7 +15,6 @@ jobs:
               uses: crowdin/github-action@v2.2.0
               with:
                 upload_translations: true
-                upload_language: lol
                 import_eq_suggestions: false
                 download_sources: false
                 download_translations: false
