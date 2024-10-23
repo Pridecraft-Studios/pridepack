@@ -2,10 +2,10 @@ name: Update Crowdin strings bi-directionally
 
 run-name: Update from Crowdin
 
-on:
-  push:
-  schedule:
-    - cron: "30 */3 * * *"
+on: # Temporarily disabling this workflow so I can upload translated strings --KTrain
+  #push:
+  #schedule:
+    #- cron: "30 */3 * * *"
   workflow_dispatch:
 
 permissions:

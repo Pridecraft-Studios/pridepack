@@ -4360,12 +4360,11 @@
     {
         "section": "Pridecraft Studios",
         "disciplines": {
-            "discipline:" : "Pridecraft Studios Developers",
+            "discipline:" : "",
             "titles": [
                 {
                     "title": "Management",
                     "names": [
-                        "Ampflower",
                         "Blurryface",
                         "Sake",
                         "WorldWidePixel"
@@ -4393,6 +4392,7 @@
                         "Ampflower",
                         "Blurryface",
                         "KTrain",
+                        "Santiago 'Zhamty' Navas",
                         "TheClashFruit",
                         "Wolren"
                     ]
@@ -4416,7 +4416,6 @@
                 {
                     "title": "Music Artists",
                     "names": [
-                        "MiniStumpy",
                         "WorldWidePixel"
                     ]
                 },
@@ -4434,7 +4433,8 @@
                         "Pufferbluh (Russian)",
                         "ThinkSeal (ɥsᴉʅƃuƎ)",
                         "Alice (Brazilian Portuguese)",
-                        "Polycord (Romanian)"
+                        "Polycord (Romanian)",
+                        "Santiago 'Zhamty' Navas (Argentinian Spanish)"
                     ]
                 }
             ]
