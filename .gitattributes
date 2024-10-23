@@ -1,2 +1,8 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+*.png linguist-language=png linguist-detectable
+
+src/**/*.json linguist-detectable
+src/**/*.mcmeta linguist-language=json linguist-detectable
+
