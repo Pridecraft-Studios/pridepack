@@ -2,13 +2,24 @@
 
 ## Content
 
+- [ ] Mojang CIT Features
+    - [ ] Axolotl variants in each bucket
+    - [ ] Painting variant previews in each item
+    - [ ] Custom textures to certain items based on renaming
+
+<!-- Readd on a date near christmas
+
 - [ ] Themed Chirstmas chests
     - [ ] Single Chest
-    - [ ] Double Chest
+    - [ ] Double Chest -->
 
 ## Technical
 
-- [ ] 1.21.4 specific features <!-- Remove these if we find out that's not how they work. Should I have done this instead before listing these? Probably, but this shouldn't be a problem either... -->
+- [ ] Port Mojang CIT Features to Optifine CIT to make sure they work on older versions of the game
+
+<!-- Readd on a date near christmas
+
+- [ ] 1.21.4 specific features <!-- Remove these if we find out that's not how they work. Should I have done this instead before listing these? Probably, but this shouldn't be a problem either... -\->
 
     - [ ] Different textures for christmas *trapped* chests
         - [ ] Single Trapped Chest
@@ -24,7 +35,7 @@
         - [ ] Mangrove
         - [ ] Oak
         - [ ] Pale Oak
-        - [ ] Spruce
+        - [ ] Spruce -->
 
 ## Misc
 
