@@ -3,7 +3,7 @@
 ## Content
 
 - [ ] Mojang CIT Features
-    - [ ] Axolotl variants in each bucket
+    - [X] Axolotl variants in each bucket
     - [ ] Painting variant previews in each item
     - [ ] Custom textures to certain items based on renaming
 
@@ -16,6 +16,9 @@
 ## Technical
 
 - [ ] Port Mojang CIT Features to Optifine CIT to make sure they work on older versions of the game
+    - [X] Axolotl Bucket Variants
+    - [ ] Painting Previews
+    - [ ] Rename based special textures
 
 <!-- Readd on a date near christmas
 
@@ -41,11 +44,11 @@
 
 - [ ] Splashes (splashes.txt)
     - [ ] Remove redundant splashes
-    - [ ] Remove confusing splashes
-    - [ ] Better splash organization
-    - [ ] Mention every team member
-    - [ ] Mention all websites Pridepack is officially in
-    - [ ] Mention other cool projects
-    - [ ] Easter eggs
+    - [X] Remove confusing splashes
+    - [X] Better splash organization
+    - [X] Mention every team member
+    - [X] Mention all websites Pridepack is officially in
+    - [X] Mention other cool projects
+    - [X] Easter eggs
 
 - [X] Be gay
