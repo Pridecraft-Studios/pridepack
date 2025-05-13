@@ -56,6 +56,24 @@
   "block.minecraft.orange_candle": "Lesbian Candle",
   "block.minecraft.white_candle": "Progress Candle",
 
+  "item.minecraft.harness": "Queer Harness",
+  "item.minecraft.red_harness": "Gay Harness",
+  "item.minecraft.black_harness": "Non-Binary Harness",
+  "item.minecraft.green_harness": "Intersex Harness",
+  "item.minecraft.brown_harness": "Agender Harness",
+  "item.minecraft.blue_harness": "Bigender Harness",
+  "item.minecraft.purple_harness": "Bisexual Harness",
+  "item.minecraft.cyan_harness": "Gay Men Harness",
+  "item.minecraft.light_gray_harness": "Asexual Harness",
+  "item.minecraft.gray_harness": "Aromantic Harness",
+  "item.minecraft.pink_harness": "Aplatonic Harness",
+  "item.minecraft.lime_harness": "Gender Fluid Harness",
+  "item.minecraft.yellow_harness": "PansexualHarness",
+  "item.minecraft.light_blue_harness": "Trans Harness",
+  "item.minecraft.magenta_harness": "Aroace Harness",
+  "item.minecraft.orange_harness": "Lesbian Harness",
+  "item.minecraft.white_harness": "Progress Harness",
+
   "comment.1": "Below is a template for any new colored thing.",
 
   "item.minecraft.": "Queer ",
@@ -74,7 +92,7 @@
   "item.minecraft.light_blue_": "Trans ",
   "item.minecraft.magenta_": "Aroace ",
   "item.minecraft.orange_": "Lesbian ",
-  "item.minecraft.white_": "Progress",
+  "item.minecraft.white_": "Progress ",
 
   "block.minecraft.bee_nest": "Bii Nest",
   "block.minecraft.beehive": "Biihive",
