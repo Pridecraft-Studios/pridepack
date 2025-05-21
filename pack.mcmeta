@@ -12,6 +12,13 @@
           9999
         ],
         "directory": "format16"
+      },
+      {
+        "formats": [
+          53,
+          9999
+        ],
+        "directory": "format53"
       }
     ]
   }
