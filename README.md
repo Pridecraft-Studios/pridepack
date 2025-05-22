@@ -2,7 +2,8 @@
 
 ![Modrinth Downloads](https://img.shields.io/modrinth/dt/yPbBrzEX?logo=modrinth&label=Modrinth%20downloads&color=%231bd96a&style=for-the-badge) ![CurseForge Downloads](https://img.shields.io/curseforge/dt/831872?logo=curseforge&label=CurseForge%20Downloads&color=%23f16436&style=for-the-badge) ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/pridecraft-studios/pridepack/total?style=for-the-badge&logo=github&label=Github%20Downloads) ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/pridecraft-studios/pridepack?style=for-the-badge&logo=github)
 
-This is Pridepack, a Resource Pack made by [Pridecraft Studios](https://pridecraft.gay). It comes with many LGBT Pride additions, such as paintings, beds, mobs and Main Menu changes.
+This is Pridepack, a Resource Pack made by [Pridecraft Studios](https://pridecraft.gay).
+It comes with many LGBTQ+ Pride additions, including paintings, beds, mobs, candles and more!
 
 ## Donate
 
@@ -50,7 +51,7 @@ is that we know how to keep the game from looking like someone vomited rainbows 
 
 # Licenses
 
-<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://pridecraft.gay/pridepack">Pridepack</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://pridecraft.gay">Pridecraft Studios</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img width="16" height="16" style="height:16px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img width="16" height="16" style="height:16px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img width="16" height="16" style="height:16px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
+<p><a property="dct:title" rel="cc:attributionURL" href="https://pridecraft.gay/pridepack">Pridepack</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://pridecraft.gay">Pridecraft Studios</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img width="16" height="16" style="height:16px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img width="16" height="16" style="height:16px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img width="16" height="16" style="height:16px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
 
 The soundtracks for Joy are licensed from [WorldWidePixel](https://worldwidepixel.ca/), under different terms and are **not** distributed under CC BY-SA 4.0. [See here for licensing terms.](https://git.pridecraft.gay/pridepack/blob/main/LICENSE-MUSIC)
 
