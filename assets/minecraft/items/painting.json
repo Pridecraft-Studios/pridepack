@@ -110,6 +110,13 @@
       {
         "model": {
           "type": "minecraft:model",
+          "model": "joy:item/birb_painting"
+        },
+        "when": "minecraft:humble"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
           "model": "joy:item/pansexual_painting"
         },
         "when": "minecraft:match"
