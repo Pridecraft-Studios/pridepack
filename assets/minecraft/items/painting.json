@@ -1,0 +1,181 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "cases": [
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "joy:item/genderqueer_painting"
+        },
+        "when": "minecraft:alban"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "joy:item/mlm_painting"
+        },
+        "when": "minecraft:aztec"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "joy:item/bigender_painting"
+        },
+        "when": "minecraft:aztec2"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "joy:item/polysexual_painting"
+        },
+        "when": "minecraft:baroque"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "joy:item/agender_painting"
+        },
+        "when": "minecraft:bomb"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "joy:item/floating_bees_painting"
+        },
+        "when": "minecraft:bouquet"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "joy:item/intersex_painting"
+        },
+        "when": "minecraft:burning_skull"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "joy:item/ally_painting"
+        },
+        "when": "minecraft:bust"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "joy:item/demiromantic_painting"
+        },
+        "when": "minecraft:cavebird"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "joy:item/demisexual_painting"
+        },
+        "when": "minecraft:cotan"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "joy:item/aromantic_painting"
+        },
+        "when": "minecraft:courbet"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "joy:item/asexual_painting"
+        },
+        "when": "minecraft:creebet"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "joy:item/aroace_painting"
+        },
+        "when": "minecraft:donkey_kong"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "joy:item/floating_trees_painting"
+        },
+        "when": "minecraft:endboss"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "joy:item/plural_painting"
+        },
+        "when": "minecraft:fighters"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "joy:item/pansexual_painting"
+        },
+        "when": "minecraft:match"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "joy:item/progress_painting"
+        },
+        "when": "minecraft:pigscene"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "joy:item/genderfluid_painting"
+        },
+        "when": "minecraft:plant"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "joy:item/lesbian_painting"
+        },
+        "when": "minecraft:skeleton"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "joy:item/bisexual_painting"
+        },
+        "when": "minecraft:skull_and_roses"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "joy:item/trans_painting"
+        },
+        "when": "minecraft:stage"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "joy:item/nonbinary_painting"
+        },
+        "when": "minecraft:void"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "joy:item/aplatonic_painting"
+        },
+        "when": "minecraft:wasteland"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "joy:item/rainbow_painting"
+        },
+        "when": "minecraft:wither"
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/painting"
+    },
+    "property": "minecraft:component",
+    "component": "minecraft:painting/variant"
+  }
+}
