@@ -8,35 +8,35 @@
         "when": "blue",
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/axolotl_bucket_blue"
+          "model": "joy:item/mlm_axolotl_bucket"
         }
       },
       {
         "when": "cyan",
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/axolotl_bucket_cyan"
+          "model": "joy:item/lesbian_axolotl_bucket"
         }
       },
       {
         "when": "gold",
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/axolotl_bucket_gold"
+          "model": "joy:item/progress_axolotl_bucket"
         }
       },
       {
         "when": "lucy",
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/axolotl_bucket_lucy"
+          "model": "joy:item/trans_axolotl_bucket"
         }
       },
-{
+      {
         "when": "wild",
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/axolotl_bucket_wild"
+          "model": "joy:item/aroace_axolotl_bucket"
         }
       }
     ],

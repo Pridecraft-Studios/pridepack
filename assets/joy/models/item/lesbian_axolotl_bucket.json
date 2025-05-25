@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/axolotl_bucket_wild"
+    "layer0": "joy:item/lesbian_axolotl_bucket"
   }
 }
