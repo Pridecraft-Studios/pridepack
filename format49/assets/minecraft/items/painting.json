@@ -68,6 +68,13 @@
       {
         "model": {
           "type": "minecraft:model",
+          "model": "joy:item/floating_axolotls_painting"
+        },
+        "when": "minecraft:changing"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
           "model": "joy:item/demisexual_painting"
         },
         "when": "minecraft:cotan"
