@@ -1,0 +1,23 @@
+{
+    id: "pridepack",
+    version: 13,
+    capabilities: ["FileFilter", "DirFilter"],
+    conf: {
+        enableBiis: true,
+	enablePridePaintings: true,
+	enablePrideCandles: true,
+	enablePrideBundles: true,
+	enablePrideAxolotlBucket: true,
+	enablePrideAxolotls: true,
+	enablePrideBeds: true,
+	enableFoxSocks: true,
+	enablePrideElytra: true,
+	enableTransAlium: true,
+	enableLesbeans: true,
+	enablePrideXPBar: true,
+	enableMinecraftLogo: true,
+	enablePanorama: true,
+	enableSplashes: true,
+	enableTranslations: true
+    }
+}
