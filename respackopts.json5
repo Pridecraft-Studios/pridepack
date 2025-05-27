@@ -1,0 +1,40 @@
+{
+  id: "pridepack",
+  version: 13,
+  capabilities: [
+    "FileFilter",
+    "DirFilter"
+  ],
+  conf: {
+    entities: {
+      enableBiis: true,
+      enablePrideAxolotls: true,
+      enableFoxSocks: true,
+      enablePrideHarness: true
+    },
+    blocks: {
+      enablePridePaintings: true,
+      enablePrideCandles: true,
+      enablePrideBeds: true,
+      enableTransAlium: true,
+      enableLesbeans: true
+    },
+    items: {
+      enablePrideBundles: true,
+      enablePrideAxolotlBucket: true,
+      enablePrideElytra: true,
+      enablePrideBrush: true,
+      enableEnchantmentGlint: true
+    },
+    ui: {
+      enablePrideXPBar: true,
+      enableMinecraftLogo: true,
+      enablePanorama: true,
+      enableSplashes: true,
+      enableTranslations: true
+    },
+    other: {
+      enableMusic: true
+    }
+  }
+}
