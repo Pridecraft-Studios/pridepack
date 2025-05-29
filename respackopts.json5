@@ -3,21 +3,31 @@
     version: 13,
     capabilities: ["FileFilter", "DirFilter"],
     conf: {
-        enableBiis: true,
-	enablePridePaintings: true,
-	enablePrideCandles: true,
-	enablePrideBundles: true,
-	enablePrideAxolotlBucket: true,
-	enablePrideAxolotls: true,
-	enablePrideBeds: true,
-	enableFoxSocks: true,
-	enablePrideElytra: true,
-	enableTransAlium: true,
-	enableLesbeans: true,
-	enablePrideXPBar: true,
-	enableMinecraftLogo: true,
-	enablePanorama: true,
-	enableSplashes: true,
-	enableTranslations: true
+	entities: {
+        	enableBiis: true,
+		enablePrideAxolotls: true,
+		enableFoxSocks: true,
+		enablePrideHarness: true
+	},
+	blocks: {
+		enablePridePaintings: true,
+		enablePrideCandles: true,
+		enablePrideBeds: true,
+		enableTransAlium: true,
+		enableLesbeans: true
+	},
+	items: {
+		enablePrideBundles: true,
+		enablePrideAxolotlBucket: true,
+		enablePrideElytra: true,
+		enablePrideBrush: true
+	},
+	ui: {
+		enablePrideXPBar: true,
+		enableMinecraftLogo: true,
+		enablePanorama: true,
+		enableSplashes: true,
+		enableTranslations: true
+	}
     }
 }
