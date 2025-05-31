@@ -164,42 +164,37 @@
   "painting.minecraft.wither.title": "Rainbow Flag",
   "painting.minecraft.humble.author": "Blurryface",
   "painting.minecraft.humble.title": "birb",
-  "music.game.creative.reminiscence": "WorldWidePixel - Reminiscence",
-  "music.game.douglas": "WorldWidePixel - Douglas",
-  "music.game.melancolie": "WorldWidePixel - Mélancolie",
-  "music.game.regina": "WorldWidePixel - Regina",
-  "music.game.menu.joy": "WorldWidePixel - Joy",
-  
+
   "comment.2": "Below is all strings related to Resource Pack Options (ResPackOps).",
   "rpo.pridepack": "Pridepack Settings",
   "rpo.pridepack.entities": "Entities",
   "rpo.pridepack.blocks": "Blocks",
   "rpo.pridepack.items": "Items",
   "rpo.pridepack.ui": "UI",
-  
+
   "rpo.pridepack.entities.enableBiis": "Enable Biis",
   "rpo.pridepack.entities.enablePrideAxolotls": "Enable Pridexolotls (Pride Axolotls)",
   "rpo.pridepack.entities.enableFoxSocks": "Enable Fox Thigh Highs",
   "rpo.pridepack.entities.enablePrideHarness": "Enable Happy Ghast Pride Harness",
-  
+
   "rpo.pridepack.blocks.enablePridePaintings": "Enable Pride Paintings",
   "rpo.pridepack.blocks.enablePrideCandles": "Enable Pride Candles",
   "rpo.pridepack.blocks.enablePrideBeds": "Enable Pride Beds",
   "rpo.pridepack.blocks.enableTransAlium": "Enable Trans Allium",
   "rpo.pridepack.blocks.enableLesbeans": "Enable Lesbeans (Lesbian Cocoa Beans)",
-  
+
   "rpo.pridepack.items.enablePrideBundles": "Enable Pride Bundles",
   "rpo.pridepack.items.enablePrideAxolotlBucket": "Enable Pride Axolotl Bucket",
   "rpo.pridepack.items.enablePrideElytra": "Enable Pride Elytra",
   "rpo.pridepack.items.enablePrideBrush": "Enable Pride Brush",
   "rpo.pridepack.items.enableEnchantmentGlint": "Enable Enchantment Glint",
-  
+
   "rpo.pridepack.ui.enablePrideXPBar": "Enable Pride XP Bar",
   "rpo.pridepack.ui.enableMinecraftLogo": "Enable Pride Minecraft Logo",
   "rpo.pridepack.ui.enablePanorama": "Enable Panorama",
   "rpo.pridepack.ui.enableSplashes": "Enable Splashes",
   "rpo.pridepack.ui.enableTranslations": "Enable Translations",
-  
+
   "rpo.pridepack.other": "Other",
   "rpo.pridepack.other.enableMusic": "Enable Custom Music"
 } 
