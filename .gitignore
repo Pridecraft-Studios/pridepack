@@ -27,6 +27,9 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+# Windows nuisance file, apparently
+desktop.ini
+
 # other non-macos stuff
 *.pdn
 *.xcf
