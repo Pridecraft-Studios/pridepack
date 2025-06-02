@@ -29,6 +29,9 @@
 		enablePanorama: true,
 		enableSplashes: true,
 		enableTranslations: true
+	},
+	other: {
+		enableMusic: true
 	}
     }
 }

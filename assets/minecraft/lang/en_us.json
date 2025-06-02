@@ -198,5 +198,8 @@
   "rpo.pridepack.ui.enableMinecraftLogo": "Enable Pride Minecraft Logo",
   "rpo.pridepack.ui.enablePanorama": "Enable Panorama",
   "rpo.pridepack.ui.enableSplashes": "Enable Splashes",
-  "rpo.pridepack.ui.enableTranslations": "Enable Translations"
+  "rpo.pridepack.ui.enableTranslations": "Enable Translations",
+  
+  "rpo.pridepack.other": "Other",
+  "rpo.pridepack.other.enableMusic": "Enable Custom Music"
 } 
