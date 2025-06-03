@@ -8,7 +8,11 @@
   conf: {
     entities: {
       enableBiis: true,
-      enablePrideAxolotls: true,
+	  enablePrideAxolotls: {
+		type: "enum",
+		default: "all",
+		values: ["all", "default", "none"]
+	  },	
       enableFoxSocks: true,
       enablePrideHarness: true
     },

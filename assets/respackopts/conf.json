@@ -1,11 +1,15 @@
 {
     id: "pridepack",
-    version: 7,
+    version: 8,
     capabilities: ["FileFilter", "DirFilter"],
     conf: {
 	entities: {
-        	enableBiis: true,
-		enablePrideAxolotls: true,
+        enableBiis: true,
+		enablePrideAxolotls: {
+			type: "enum",
+			default: "all",
+			values: ["all", "default", "none"]
+	  },
 		enableFoxSocks: true,
 		enablePrideHarness: true
 	},
@@ -29,9 +33,6 @@
 		enablePanorama: true,
 		enableSplashes: true,
 		enableTranslations: true
-	},
-	other: {
-		enableMusic: true
 	}
     }
 }
