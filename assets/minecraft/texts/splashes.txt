@@ -278,7 +278,6 @@ Done before 1.21.6!
 Over 100 issues and PRs in GitHub!
 The sky is full of rainbows to explore!
 Now configurable with ResPackOps!
-sudo rm -rf /
 Works with Packwiz!
 Why are the paintings floating?
 June 6th 1994, Day 2546
