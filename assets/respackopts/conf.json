@@ -24,8 +24,7 @@
 		enablePrideBundles: true,
 		enablePrideAxolotlBucket: true,
 		enablePrideElytra: true,
-		enablePrideBrush: true,
-		enableEnchantmentGlint: true
+		enablePrideBrush: true
 	},
 	ui: {
 		enablePrideXPBar: true,

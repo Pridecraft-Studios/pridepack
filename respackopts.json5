@@ -27,8 +27,8 @@
       enablePrideBundles: true,
       enablePrideAxolotlBucket: true,
       enablePrideElytra: true,
-      enablePrideBrush: true,
-      enableEnchantmentGlint: true
+      enablePrideBrush: true
+//      enableEnchantmentGlint: true
     },
     ui: {
       enablePrideXPBar: true,
@@ -36,9 +36,6 @@
       enablePanorama: true,
       enableSplashes: true,
       enableTranslations: true
-    },
-    other: {
-      enableMusic: true
     }
   }
 }
