@@ -31,6 +31,14 @@
       }
     ]
   },
+  "music.opaque_window": {
+    "sounds": [
+      {
+        "name": "joy:music/game/opaque_window",
+        "stream": true
+      }
+    ]
+  },
   "music.reminiscence": {
     "sounds": [
       {

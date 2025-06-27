@@ -20,6 +20,10 @@
       {
         "name": "joy:music/game/regina",
         "stream": true
+      },
+      {
+        "name": "joy:music/game/opaque_window",
+        "stream": true
       }
     ]
   },
