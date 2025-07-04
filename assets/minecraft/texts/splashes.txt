@@ -230,6 +230,8 @@ Now configurable with ResPackOps!
 Works with Packwiz!
 Why are the paintings floating?
 June 6th 1994, Day 2546
+Mechanical Chicken!
+[remove this splash after we rebrand again]
 Also on MCPEDL!
 Also on CurseForge!
 Also on Modrinth!
@@ -284,5 +286,3 @@ Also try QNN!
 Also try CRSS!
 Also try Modfest!
 As seen at BlanketCon 25!
-Mechanical Chicken!
-[remove this splash after we rebrand again]
