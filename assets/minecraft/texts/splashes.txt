@@ -191,7 +191,7 @@ Go watch the Pridepack trailer!
 ???
 THE END IS NEVER THE END IS NEVER THE END IS NEVER
 THE CAKE IS A LIE!
-Works on 1.13-1.21.6!
+Works on 1.13-1.21.8!
 birb
 What if I just... moew :3
 Underrated!
@@ -223,7 +223,7 @@ Rebundled Bundles!
 Rainbow Chasers!
 Chase the Rainbows!
 water is so gay the harnesses changed
-Done before 1.21.6!
+Done before 1.22!
 Over 100 issues and PRs in GitHub!
 The sky is full of rainbows to explore!
 Now configurable with ResPackOps!
@@ -235,6 +235,10 @@ Mechanical Chicken!
 Anne?
 Does this charger charge?
 ¿Este cargador carga?
+ゲイ！！！
+ゲイ！
+featuring: ゲイ
+feat: ゲイ
 Also on MCPEDL!
 Also on CurseForge!
 Also on Modrinth!
