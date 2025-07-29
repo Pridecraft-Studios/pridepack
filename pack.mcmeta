@@ -1,28 +1,28 @@
 {
   "pack": {
     "min_format": 16,
-    "max_format": 65,
+    "max_format": 9999,
     "pack_format": 16,
-    "supported_formats": [16, 65],
+    "supported_formats": [16, 9999],
     "description": "§cPr§6id§eep§2ac§9k §510§r.0 | Gayme Drop 3 !\n§oBy Pridecraft Studios"
   },
  "overlays": {
     "entries": [
       {
 	      "min_format": 16,
-	      "max_format": 65,
+	      "max_format": 9999,
         "formats": [16, 64],
         "directory": "format16"
       },
       {
 	      "min_format": 49,
-	      "max_format": 65,
+	      "max_format": 9999,
         "formats": [49, 64],
         "directory": "format49"
       },
       {
 	      "min_format": 53,
-	      "max_format": 65,
+	      "max_format": 9999,
         "formats": [53, 64],
         "directory": "format53"
       }
