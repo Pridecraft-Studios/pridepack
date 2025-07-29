@@ -1,39 +1,29 @@
 {
   "pack": {
-    "min_format": 4,
-    "max_format": 9999,
     "pack_format": 4,
-    "supported_formats": [4, 9999],
+    "supported_formats": [4, 65],
+    "min_format": [4, 0],
+    "max_format": [9999, 0],
     "description": "§cPr§6id§eep§2ac§9k 9§5.0 §r| Chase the Rainbows!"
   },
  "overlays": {
     "entries": [
       {
-	"min_format": 16,
-	"max_format": 9999,
-        "formats": [
-          16,
-          9999
-        ],
-	
+	"min_format": [16, 0],
+	"max_format": [9999, 0],
+        "formats": [16, 65],
         "directory": "format16"
       },
       {
-	"min_format": 49,
-	"max_format": 9999,
-        "formats": [
-          49,
-          9999
-        ],
+	"min_format": [49, 0],
+	"max_format": [9999, 0],
+        "formats": [49, 65],
         "directory": "format49"
       },
       {
-	"min_format": 53,
-	"max_format": 9999,
-        "formats": [
-          53,
-          9999
-        ],
+	"min_format": [53, 0],
+	"max_format": [9999, 0],
+        "formats": [53, 65],
         "directory": "format53"
       }
     ]
