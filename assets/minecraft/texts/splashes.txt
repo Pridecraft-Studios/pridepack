@@ -33,8 +33,8 @@ ACE
 LGBTQA+!
 WE'RE WHO WE'RE!
 Proud Edition
-🏳️‍⚧️
-🏳️‍🌈
+
+
 Different is beautifaul!
 FLAGXPLOSION!
 TODO: be more gay
@@ -89,7 +89,7 @@ This is so gay, we're in heaven.
 WARNING: May contain gay.
 C? Trans!
 Truly a masterpiece. Of the cake. Of the coming out party! Yey!
-Bravo, Captain Holt! 🤖
+Bravo, Captain Holt! 
 Mrow
 Meow
 sudo dnf install pridepack
@@ -135,6 +135,7 @@ I'm not gay, you are!.. wait we're both gay
 Silly Toaster Lucy was here!
 Joyful soundtrack!
 Pixel makes amazing music!
+cordova makes amazing music!
 joy.ogg
 douglas.ogg
 regina.ogg
@@ -204,7 +205,7 @@ I have to write two new splashes so the "200 splashes!" one is in the correct li
 >:3c
 wait is B3 sunglasses :3 ???
 0% buggy!
-worldwidepixel.bandcamp.com/album/joy !!!
+lynndova.bandcamp.com/album/joy !!!
 First released November 28th 2022!
 Over two years old!
 28112022!
@@ -266,8 +267,9 @@ Made by KTrain!
 Made by TheClashFruit!
 Made by Wolren!
 Made by WorldWidePixel!
+Made by cordova!
 Made by gay people!
-Music by WorldWidePixel!
+Music by cordova!
 Also try Pridebones!
 Also try Pridepack Legacy!
 Also try Pride Tooltips!
