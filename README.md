@@ -51,12 +51,12 @@ We target both Java and Bedrock editions, hoping to create memorable experiences
 
 <p><a property="dct:title" rel="cc:attributionURL" href="https://pridecraft.gay/pridepack">Pridepack</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://pridecraft.gay">Pridecraft Studios</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img width="16" height="16" style="height:16px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img width="16" height="16" style="height:16px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img width="16" height="16" style="height:16px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
 
-The soundtracks for Joy are licensed from [WorldWidePixel](https://worldwidepixel.ca/), under different terms and are **not** distributed under CC BY-SA 4.0. [See here for licensing terms.](https://git.pridecraft.gay/pridepack/blob/main/LICENSE-MUSIC)
+The music for Joy is licensed from [cordova](https://worldwidepixel.ca/), under different terms and are **not** distributed under CC BY-SA 4.0. [See here for licensing terms.](https://git.pridecraft.gay/pridepack/blob/main/LICENSE-MUSIC)
 
 In short:
-- You must provide credit to WorldWidePixel
+- You must provide credit to cordova
 - You can not reupload this soundtrack verbatim 
 - You may use this soundtrack under the fair use doctrine including but not limited to the following:
   - Using this soundtrack in videos or streams
 
-If you are unsure if you may use the soundtracks or wish to license the soundtracks for your own use, contact WorldWidePixel on Discord via `@worldwidepixel` or contact using [their public email](mailto:hello@worldwidepixel.ca).
+If you are unsure if you may use the soundtracks or wish to license the soundtracks for your own use, contact cordova on Discord via [their public email](mailto:hello@worldwidepixel.ca).
