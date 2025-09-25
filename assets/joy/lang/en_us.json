@@ -1,14 +1,14 @@
 {
-  "joy.music.game.creative.reminiscence": "WorldWidePixel - Reminiscence",
-  "joy.music.game.douglas": "WorldWidePixel - Douglas",
-  "joy.music.game.melancolie": "WorldWidePixel - Mélancolie",
-  "joy.music.game.regina": "WorldWidePixel - Regina",
-  "joy.music.game.opaque_window": "WorldWidePixel - Opaque Window",
-  "joy.music.menu.joy": "WorldWidePixel - Joy",
-  "now-playing.joy:music/game/creative": "WorldWidePixel - Reminiscence",
-  "now-playing.joy:music/game/douglas": "WorldWidePixel - Douglas",
-  "now-playing.joy:music/game/melancolie": "WorldWidePixel - Mélancolie",
-  "now-playing.joy:music/game/regina": "WorldWidePixel - Regina",
-  "now-playing.joy:music/game/opaque_window": "WorldWidePixel - Opaque Window",
-  "now-playing.joy:music/menu/joy": "WorldWidePixel - Joy"
+  "joy.music.game.creative.reminiscence": "cordova - Reminiscence",
+  "joy.music.game.douglas": "cordova - Douglas",
+  "joy.music.game.melancolie": "cordova - Mélancolie",
+  "joy.music.game.regina": "cordova - Regina",
+  "joy.music.game.opaque_window": "cordova - Opaque Window",
+  "joy.music.menu.joy": "cordova - Joy",
+  "now-playing.joy:music/game/creative": "cordova - Reminiscence",
+  "now-playing.joy:music/game/douglas": "cordova - Douglas",
+  "now-playing.joy:music/game/melancolie": "cordova - Mélancolie",
+  "now-playing.joy:music/game/regina": "cordova - Regina",
+  "now-playing.joy:music/game/opaque_window": "cordova - Opaque Window",
+  "now-playing.joy:music/menu/joy": "cordova - Joy"
 }
