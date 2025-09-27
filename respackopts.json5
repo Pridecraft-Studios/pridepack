@@ -28,7 +28,7 @@
       enablePrideAxolotlBucket: true,
       enablePrideElytra: true,
       enablePrideBrush: true
-//      enableEnchantmentGlint: true
+//    enableEnchantmentGlint: true
     },
     ui: {
       enablePrideXPBar: true,

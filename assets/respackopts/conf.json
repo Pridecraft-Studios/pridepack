@@ -9,29 +9,29 @@
 			type: "enum",
 			default: "all",
 			values: ["all", "default", "none"]
-	  },
+	  	},
 		enableFoxSocks: true,
 		enablePrideHarness: true
-	},
+		},
 	blocks: {
 		enablePridePaintings: true,
 		enablePrideCandles: true,
 		enablePrideBeds: true,
 		enableTransAlium: true,
 		enableLesbeans: true
-	},
+		},
 	items: {
 		enablePrideBundles: true,
 		enablePrideAxolotlBucket: true,
 		enablePrideElytra: true,
 		enablePrideBrush: true
-	},
+		},
 	ui: {
 		enablePrideXPBar: true,
 		enableMinecraftLogo: true,
 		enablePanorama: true,
 		enableSplashes: true,
 		enableTranslations: true
-	}
+		}
     }
 }
