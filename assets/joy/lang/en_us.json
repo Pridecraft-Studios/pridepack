@@ -1,14 +1,15 @@
 {
-  "joy.music.game.creative.reminiscence": "cordova - Reminiscence",
-  "joy.music.game.douglas": "cordova - Douglas",
-  "joy.music.game.melancolie": "cordova - Mélancolie",
-  "joy.music.game.regina": "cordova - Regina",
-  "joy.music.game.opaque_window": "cordova - Opaque Window",
-  "joy.music.menu.joy": "cordova - Joy",
-  "now-playing.joy:music/game/creative": "cordova - Reminiscence",
-  "now-playing.joy:music/game/douglas": "cordova - Douglas",
-  "now-playing.joy:music/game/melancolie": "cordova - Mélancolie",
-  "now-playing.joy:music/game/regina": "cordova - Regina",
-  "now-playing.joy:music/game/opaque_window": "cordova - Opaque Window",
-  "now-playing.joy:music/menu/joy": "cordova - Joy"
+  "joy.music.game.creative.reminiscence": "lynndova - Reminiscence",
+  "joy.music.game.douglas": "lynndova - Douglas",
+  "joy.music.game.melancolie": "lynndova - Mélancolie",
+  "joy.music.game.regina": "lynndova - Regina",
+  "joy.music.game.opaque_window": "lynndova - Opaque Window",
+  "joy.music.menu.joy": "lynndova - Joy",
+  
+  "now-playing.joy:music/game/creative": "lynndova - Reminiscence",
+  "now-playing.joy:music/game/douglas": "lynndova - Douglas",
+  "now-playing.joy:music/game/melancolie": "lynndova - Mélancolie",
+  "now-playing.joy:music/game/regina": "lynndova - Regina",
+  "now-playing.joy:music/game/opaque_window": "lynndova - Opaque Window",
+  "now-playing.joy:music/menu/joy": "lynndova - Joy"
 }
