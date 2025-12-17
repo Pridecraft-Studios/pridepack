@@ -1,6 +1,20 @@
 # Pridepack
 
-![Modrinth Downloads](https://img.shields.io/modrinth/dt/yPbBrzEX?logo=modrinth&label=Modrinth%20downloads&color=%231bd96a&style=for-the-badge) ![CurseForge Downloads](https://img.shields.io/curseforge/dt/831872?logo=curseforge&label=CurseForge%20Downloads&color=%23f16436&style=for-the-badge) ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/pridecraft-studios/pridepack/total?style=for-the-badge&logo=github&label=Github%20Downloads) ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/pridecraft-studios/pridepack?style=for-the-badge&logo=github)
+<center>
+
+<!-- ![Modrinth Downloads](https://img.shields.io/modrinth/dt/yPbBrzEX?logo=modrinth&label=Modrinth%20downloads&color=%231bd96a&style=for-the-badge) ![CurseForge Downloads](https://img.shields.io/curseforge/dt/831872?logo=curseforge&label=CurseForge%20Downloads&color=%23f16436&style=for-the-badge) ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/pridecraft-studios/pridepack/total?style=for-the-badge&logo=github&label=Github%20Downloads) ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/pridecraft-studios/pridepack?style=for-the-badge&logo=github) -->
+
+<img alt="Modrinth Downloads"
+src="https://img.shields.io/modrinth/dt/yPbBrzEX?logo=modrinth&label=Modrinth%20downloads&color=%231bd96a&style=for-the-badge">
+<img alt="CurseForge Downloads"
+src="https://img.shields.io/curseforge/dt/831872?logo=curseforge&label=CurseForge%20Downloads&color=%23f16436&style=for-the-badge">
+<img alt="GitHub Downloads"
+src="https://img.shields.io/github/downloads/pridecraft-studios/pridepack/total?style=for-the-badge&logo=github&label=Github%20Downloads">
+<img alt="GitHub Commit Activity"
+src="https://img.shields.io/github/commit-activity/t/pridecraft-studios/pridepack?style=for-the-badge&logo=github">
+
+
+</center>
 
 This is Pridepack, a Resource Pack made by [Pridecraft Studios](https://pridecraft.gay).
 It comes with many LGBTQ+ Pride additions, including paintings, beds, mobs, candles and more!
