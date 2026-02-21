@@ -20,5 +20,7 @@
   "painting.joy.happy.author": "Blurry",
   "painting.joy.happy.title": "happy happens",
   "painting.joy.palm.author": "Blurry",
-  "painting.joy.palm.title": "palm"
+  "painting.joy.palm.title": "palm",
+  "painting.joy.fourpixels.title": ["ONE [",{"text":"REDACTED","font":"minecraft:illageralt"},"] PIXEL"],
+  "painting.joy.fourpixels.author": "tuopi27"
 }
