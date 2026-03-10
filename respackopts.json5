@@ -14,7 +14,8 @@
 		values: ["all", "default", "none"]
 	  },	
       enableFoxSocks: true,
-      enablePrideHarness: true
+      enablePrideHarness: true,
+      enablePrideSniffer: true
     },
     blocks: {
       enablePridePaintings: true,
