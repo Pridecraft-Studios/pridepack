@@ -12,7 +12,8 @@
 	  	},
 		enableFoxSocks: true,
 		enablePrideHarness: true,
-        enablePrideSniffer: true
+        enablePrideSniffer: true,
+        enablePrideSlime: true
 		},
 	blocks: {
 		enablePridePaintings: true,
