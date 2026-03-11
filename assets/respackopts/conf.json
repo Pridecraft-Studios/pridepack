@@ -13,7 +13,11 @@
 		enableFoxSocks: true,
 		enablePrideHarness: true,
         enablePrideSniffer: true,
-        enablePrideSlime: true
+        enablePrideSlimes: {
+			type: "enum",
+			default: "all",
+			values: ["all", "default", "none"]
+	  	}
 		},
 	blocks: {
 		enablePridePaintings: true,
