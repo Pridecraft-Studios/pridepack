@@ -27,13 +27,19 @@
       enablePrideCandles: true,
       enablePrideBeds: true,
       enableTransAlium: true,
-      enableLesbeans: true
+      enableLesbeans: true,
+      enablePrideSlimeBlock: false
     },
     items: {
       enablePrideBundles: true,
       enablePrideAxolotlBucket: true,
       enablePrideElytra: true,
-      enablePrideBrush: true
+      enablePrideBrush: true,
+      enablePrideSlimeBall: {
+      type: "enum",
+		  default: "none",
+		  values: ["none", "Gay", "MLM"]      
+      }
 //    enableEnchantmentGlint: true
     },
     ui: {

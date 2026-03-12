@@ -1,0 +1,7 @@
+{
+    condition: "items.enablePrideSlimeBall",
+    fallback: [
+        "assets/minecraft/textures/item/slime_ball.png",
+        "slime_ball_mlm.png"
+    ]
+}
