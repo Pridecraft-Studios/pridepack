@@ -1,0 +1,7 @@
+{
+    condition: "items.enablePrideSlimeBall.none",
+    fallback: [
+        "assets/joy/textures/item/slime_ball.png",
+        "assets/joy/textures/item/slime_ball_mlm.png"
+    ]
+}
