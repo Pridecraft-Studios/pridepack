@@ -28,7 +28,16 @@
       enablePrideBeds: true,
       enableTransAlium: true,
       enableLesbeans: true,
-      enablePrideSlimeBlock: false
+      enablePrideSlimeBlock: {
+      type: "enum",
+		  default: "none",
+		  values: ["none", "Gay", "MLM", "Lesbian", "Bisexual", "Trans", "Pansexual", "Queer", "Non-Binary", "Queer", "Non-Binary", "Intersex", "Agender", "Bigender", "Aroace", "Asexual", "Aromantic", "Aplatonic", "Gender Fluid"]      
+      },
+      enablePrideStickyPiston: {
+      type: "enum",
+		  default: "none",
+		  values: ["none", "Gay", "MLM", "Lesbian", "Bisexual", "Trans", "Pansexual", "Queer", "Non-Binary", "Queer", "Non-Binary", "Intersex", "Agender", "Bigender", "Aroace", "Asexual", "Aromantic", "Aplatonic", "Gender Fluid"]      
+      }
     },
     items: {
       enablePrideBundles: true,
@@ -38,7 +47,7 @@
       enablePrideSlimeBall: {
       type: "enum",
 		  default: "none",
-		  values: ["none", "Gay", "MLM"]      
+		  values: ["none", "Gay", "MLM", "Lesbian", "Bisexual", "Trans", "Pansexual", "Queer", "Non-Binary", "Queer", "Non-Binary", "Intersex", "Agender", "Bigender", "Aroace", "Asexual", "Aromantic", "Aplatonic", "Gender Fluid"]      
       }
 //    enableEnchantmentGlint: true
     },
