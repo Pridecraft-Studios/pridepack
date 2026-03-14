@@ -1,7 +1,21 @@
 {
     condition: "items.enablePrideSlimeBall.none",
     fallback: [
-        "assets/joy/textures/item/slime_ball.png",
-        "assets/joy/textures/item/slime_ball_mlm.png"
+        "assets/joy/textures/item/slime_ball_gay.png",
+        "assets/joy/textures/item/slime_ball_mlm.png",
+		"assets/joy/textures/item/slime_ball_lesbian.png",
+		"assets/joy/textures/item/slime_ball_bisexual.png",
+		"assets/joy/textures/item/slime_ball_trans.png",
+		"assets/joy/textures/item/slime_ball_pansexual.png",
+		"assets/joy/textures/item/slime_ball_queer.png",
+		"assets/joy/textures/item/slime_ball_non-binary.png",
+		"assets/joy/textures/item/slime_ball_intersex.png",
+		"assets/joy/textures/item/slime_ball_agender.png",
+		"assets/joy/textures/item/slime_ball_bigender.png",
+		"assets/joy/textures/item/slime_ball_aroace.png",
+		"assets/joy/textures/item/slime_ball_asexual.png",
+		"assets/joy/textures/item/slime_ball_aromantic.png",
+		"assets/joy/textures/item/slime_ball_aplatonic.png",
+		"assets/joy/textures/item/slime_ball_gender_fluid.png"
     ]
 }
