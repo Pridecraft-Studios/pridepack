@@ -1,0 +1,21 @@
+{
+    condition: "items.enablePrideStickyPiston.none",
+    fallback: [
+        "assets/joy/textures/block/piston_top_sticky_gay.png",
+        "assets/joy/textures/block/piston_top_sticky_mlm.png",
+		"assets/joy/textures/block/piston_top_sticky_lesbian.png",
+		"assets/joy/textures/block/piston_top_sticky_bisexual.png",
+		"assets/joy/textures/block/piston_top_sticky_trans.png",
+		"assets/joy/textures/block/piston_top_sticky_pansexual.png",
+		"assets/joy/textures/block/piston_top_sticky_queer.png",
+		"assets/joy/textures/block/piston_top_sticky_non-binary.png",
+		"assets/joy/textures/block/piston_top_sticky_intersex.png",
+		"assets/joy/textures/block/piston_top_sticky_agender.png",
+		"assets/joy/textures/block/piston_top_sticky_bigender.png",
+		"assets/joy/textures/block/piston_top_sticky_aroace.png",
+		"assets/joy/textures/block/piston_top_sticky_asexual.png",
+		"assets/joy/textures/block/piston_top_sticky_aromantic.png",
+		"assets/joy/textures/block/piston_top_sticky_aplatonic.png",
+		"assets/joy/textures/block/piston_top_sticky_gender_fluid.png"
+    ]
+}
