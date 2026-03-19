@@ -1,5 +1,5 @@
 {
-    condition: "items.enablePrideStickyPiston.none",
+    condition: "blocks.enablePrideStickyPiston.none",
     fallback: [
         "assets/joy/textures/block/piston_top_sticky_gay.png",
         "assets/joy/textures/block/piston_top_sticky_mlm.png",

@@ -1,3 +1,3 @@
 {
-    condition: "items.enablePrideSlimeBlock.Queer"
+    condition: "blocks.enablePrideSlimeBlock.Queer"
 }

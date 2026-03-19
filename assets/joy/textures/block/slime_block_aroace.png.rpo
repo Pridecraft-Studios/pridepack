@@ -1,3 +1,3 @@
 {
-    condition: "items.enablePrideSlimeBlock.Aroace"
+    condition: "blocks.enablePrideSlimeBlock.Aroace"
 }

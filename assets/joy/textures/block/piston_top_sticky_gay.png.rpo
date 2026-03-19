@@ -1,3 +1,3 @@
 {
-    condition: "items.enablePrideStickyPiston.Gay"
+    condition: "blocks.enablePrideStickyPiston.Gay"
 }

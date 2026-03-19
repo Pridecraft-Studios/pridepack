@@ -1,3 +1,3 @@
 {
-    condition: "items.enablePrideSlimeBlock.Lesbian"
+    condition: "blocks.enablePrideSlimeBlock.Lesbian"
 }

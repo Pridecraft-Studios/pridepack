@@ -1,3 +1,3 @@
 {
-    condition: "items.enablePrideStickyPiston.Bisexual"
+    condition: "blocks.enablePrideStickyPiston.Bisexual"
 }

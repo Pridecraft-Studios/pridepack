@@ -1,5 +1,5 @@
 {
-    condition: "items.enablePrideSlimeBlock.none",
+    condition: "blocks.enablePrideSlimeBlock.none",
     fallback: [
         "assets/joy/textures/block/slime_block_gay.png",
         "assets/joy/textures/block/slime_block_mlm.png",
