@@ -31,12 +31,12 @@
       enablePrideSlimeBlock: {
       type: "enum",
 		  default: "none",
-		  values: ["none", "Gay", "MLM", "Lesbian", "Bisexual", "Trans", "Pansexual", "Queer", "NonBinary", "Queer", "NonBinary", "Intersex", "Agender", "Bigender", "Aroace", "Asexual", "Aromantic", "Aplatonic", "GenderFluid"]      
+		  values: ["none", "Gay", "MLM", "Lesbian", "Bisexual", "Trans", "Pansexual","Queer", "NonBinary", "Intersex", "Agender", "Bigender", "Aroace", "Asexual", "Aromantic", "Aplatonic", "GenderFluid"]      
       },
       enablePrideStickyPiston: {
       type: "enum",
 		  default: "none",
-		  values: ["none", "Gay", "MLM", "Lesbian", "Bisexual", "Trans", "Pansexual", "Queer", "NonBinary", "Queer", "Non-Binary", "Intersex", "Agender", "Bigender", "Aroace", "Asexual", "Aromantic", "Aplatonic", "GenderFluid"]      
+		  values: ["none", "Gay", "MLM", "Lesbian", "Bisexual", "Trans", "Pansexual","Queer", "NonBinary", "Intersex", "Agender", "Bigender", "Aroace", "Asexual", "Aromantic", "Aplatonic", "GenderFluid"]      
       }
     },
     items: {
