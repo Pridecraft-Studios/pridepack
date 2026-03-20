@@ -12,20 +12,39 @@
 	  	},
 		enableFoxSocks: true,
 		enablePrideHarness: true,
-        enablePrideSniffer: true
+        enablePrideSniffer: true,
+        enablePrideSlimes: {
+			type: "enum",
+			default: "all",
+			values: ["all", "default", "none"]
+	  	}
 		},
 	blocks: {
 		enablePridePaintings: true,
 		enablePrideCandles: true,
 		enablePrideBeds: true,
 		enableTransAlium: true,
-		enableLesbeans: true
+		enableLesbeans: true,
+        enablePrideSlimeBlock: {
+      type: "enum",
+		  default: "none",
+		  values: ["none", "Gay", "MLM", "Lesbian", "Bisexual", "Trans", "Pansexual", "Queer", "Non-Binary", "Queer", "NonBinary", "Intersex", "Agender", "Bigender", "Aroace", "Asexual", "Aromantic", "Aplatonic", "GenderFluid"]      
+      },
+      enablePrideStickyPiston: {
+      type: "enum",
+		  default: "none",
+		  values: ["none", "Gay", "MLM", "Lesbian", "Bisexual", "Trans", "Pansexual", "Queer", "NonBinary", "Queer", "Non-Binary", "Intersex", "Agender", "Bigender", "Aroace", "Asexual", "Aromantic", "Aplatonic", "GenderFluid"]   
 		},
 	items: {
 		enablePrideBundles: true,
 		enablePrideAxolotlBucket: true,
 		enablePrideElytra: true,
-		enablePrideBrush: true
+		enablePrideBrush: true,
+      enablePrideSlimeBall: [
+        "None",
+        "Gay",
+        "MLM"
+      ]
 		},
 	ui: {
 		enablePrideXPBar: true,
