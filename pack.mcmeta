@@ -24,7 +24,6 @@
       ],
       "color": "white"
     },
-  },
   "overlays": {
     "entries": [
       {
@@ -56,4 +55,5 @@
       }
     ]
   }
+}
 }
