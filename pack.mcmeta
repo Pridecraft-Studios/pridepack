@@ -3,27 +3,55 @@
     "min_format": 16,
     "max_format": 9999,
     "pack_format": 16,
-    "supported_formats": [16, 9999],
-    "description": "§cPr§6id§eep§2ac§9k §511§r.0 | Lots of Gayhem!\n§oBy Pridecraft Studios"
+    "supported_formats": [
+      16,
+      9999
+    ],
+    "description": {
+      "text": "Pridepack 12.0",
+      "extra": [
+        {
+          "text": " | Queer Takeover!\n"
+        },
+        {
+          "text": "by Pridecraft Studios",
+          "italic": true
+        },
+        {
+          "atlas": "minecraft:particles",
+          "sprite": "goldheart_2"
+        }
+      ],
+      "color": "white"
+    },
   },
   "overlays": {
     "entries": [
       {
         "min_format": 16,
         "max_format": 9999,
-        "formats": [16, 64],
+        "formats": [
+          16,
+          64
+        ],
         "directory": "format16"
       },
       {
         "min_format": 49,
         "max_format": 9999,
-        "formats": [49, 64],
+        "formats": [
+          49,
+          64
+        ],
         "directory": "format49"
       },
       {
         "min_format": 53,
         "max_format": 9999,
-        "formats": [53, 64],
+        "formats": [
+          53,
+          64
+        ],
         "directory": "format53"
       }
     ]
