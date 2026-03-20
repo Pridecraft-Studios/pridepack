@@ -49,7 +49,6 @@
 		  default: "none",
 		  values: ["none", "Gay", "MLM", "Lesbian", "Bisexual", "Trans", "Pansexual", "Queer", "NonBinary", "Intersex", "Agender", "Bigender", "Aroace", "Asexual", "Aromantic", "Aplatonic", "GenderFluid"]      
       }
-//    enableEnchantmentGlint: true
     },
     ui: {
       enablePrideXPBar: true,
