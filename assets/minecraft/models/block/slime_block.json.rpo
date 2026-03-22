@@ -1,3 +1,6 @@
 {
-    condition: "blocks.enablePrideSlimeBlock.Intersex"
+    condition: "blocks.enablePrideSlimeBlock.none",
+	fallback: [
+        "assets/joy/models/block/slime_block.json"
+		]
 }
