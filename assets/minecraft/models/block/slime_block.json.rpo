@@ -1,6 +1,21 @@
 {
     condition: "blocks.enablePrideSlimeBlock.none",
-	fallback: [
-        "assets/joy/models/block/slime_block.json"
-		]
+    fallback: [
+        "assets/joy/models/block/slime_block_gay.json",
+        "assets/joy/models/block/slime_block_mlm.json",
+		"assets/joy/models/block/slime_block_lesbian.json",
+		"assets/joy/models/block/slime_block_bisexual.json",
+		"assets/joy/models/block/slime_block_trans.json",
+		"assets/joy/models/block/slime_block_pan.json",
+		"assets/joy/models/block/slime_block_queer.json",
+		"assets/joy/models/block/slime_block_enby.json",
+		"assets/joy/models/block/slime_block_intersex.json",
+		"assets/joy/models/block/slime_block_agender.json",
+		"assets/joy/models/block/slime_block_bigender.json",
+		"assets/joy/models/block/slime_block_aroace.json",
+		"assets/joy/models/block/slime_block_ace.json",
+		"assets/joy/models/block/slime_block_aro.json",
+		"assets/joy/models/block/slime_block_aplatonic.json",
+		"assets/joy/models/block/slime_block_gender_fluid.json"
+    ]
 }
