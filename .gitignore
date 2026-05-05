@@ -30,6 +30,11 @@ Temporary Items
 # Windows nuisance file, apparently
 desktop.ini
 
+# Affinity Studio files
+
+*.af
+*.af~lock~
+
 # other non-macos stuff
 *.pdn
 *.xcf
