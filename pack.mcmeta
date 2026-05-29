@@ -55,7 +55,7 @@
         "max_format": 9999,
         "formats": [
           86,
-          64
+          9999
         ],
         "directory": "beds"
       }
