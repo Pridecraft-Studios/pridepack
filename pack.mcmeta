@@ -8,18 +8,14 @@
       9999
     ],
     "description": {
-      "text": "Pridepack 12.0",
+      "text": "Pridepack 13.0",
       "extra": [
         {
-          "text": " | Queer Takeover!\n"
+          "text": " | Queer³!\n"
         },
         {
-          "text": "by Pridecraft Studios",
+          "text": "by Pridecraft Studios ",
           "italic": true
-        },
-        {
-          "atlas": "minecraft:particles",
-          "sprite": "goldheart_2"
         }
       ],
       "color": "white"
@@ -53,6 +49,15 @@
           64
         ],
         "directory": "format53"
+      },
+      {
+        "min_format": 86,
+        "max_format": 9999,
+        "formats": [
+          86,
+          9999
+        ],
+        "directory": "beds"
       }
     ]
   }
