@@ -180,6 +180,10 @@
   "rpo.pridepack.entities.enableExtraPrideAxolotls": "Enable Extra Pridexolotls",
   "rpo.pridepack.entities.enableFoxSocks": "Enable Fox Thigh Highs",
   "rpo.pridepack.entities.enablePrideHarness": "Enable Happy Ghast Pride Harness",
+  "rpo.pridepack.entities.enablePrideSlimes": "Enable Pride Slimes",
+  "rpo.pridepack.entities.enablePrideSlimes.all": "Enable All",
+  "rpo.pridepack.entities.enablePrideSlimes.default": "Only Default",
+  "rpo.pridepack.entities.enablePrideSlimes.none": "Disable",
 
   "rpo.pridepack.blocks.enablePridePaintings": "Enable Pride Paintings",
   "rpo.pridepack.blocks.enablePrideCandles": "Enable Pride Candles",

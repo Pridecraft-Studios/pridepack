@@ -1,6 +1,19 @@
 # Pridepack
 
-![Modrinth Downloads](https://img.shields.io/modrinth/dt/yPbBrzEX?logo=modrinth&label=Modrinth%20downloads&color=%231bd96a&style=for-the-badge) ![CurseForge Downloads](https://img.shields.io/curseforge/dt/831872?logo=curseforge&label=CurseForge%20Downloads&color=%23f16436&style=for-the-badge) ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/pridecraft-studios/pridepack/total?style=for-the-badge&logo=github&label=Github%20Downloads) ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/pridecraft-studios/pridepack?style=for-the-badge&logo=github)
+<center>
+
+<!-- ![Modrinth Downloads](https://img.shields.io/modrinth/dt/yPbBrzEX?logo=modrinth&label=Modrinth%20downloads&color=%231bd96a&style=for-the-badge) ![CurseForge Downloads](https://img.shields.io/curseforge/dt/831872?logo=curseforge&label=CurseForge%20Downloads&color=%23f16436&style=for-the-badge) ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/pridecraft-studios/pridepack/total?style=for-the-badge&logo=github&label=Github%20Downloads) ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/pridecraft-studios/pridepack?style=for-the-badge&logo=github) -->
+
+<img alt="Modrinth Downloads"
+src="https://img.shields.io/modrinth/dt/yPbBrzEX?logo=modrinth&label=Modrinth%20downloads&color=%231bd96a&style=for-the-badge">
+<img alt="CurseForge Downloads"
+src="https://img.shields.io/curseforge/dt/831872?logo=curseforge&label=CurseForge%20Downloads&color=%23f16436&style=for-the-badge">
+<img alt="GitHub Downloads"
+src="https://img.shields.io/github/downloads/pridecraft-studios/pridepack/total?style=for-the-badge&logo=github&label=Github%20Downloads">
+<img alt="GitHub Commit Activity"
+src="https://img.shields.io/github/commit-activity/t/pridecraft-studios/pridepack?style=for-the-badge&logo=github">
+
+</center>
 
 This is Pridepack, a Resource Pack made by [Pridecraft Studios](https://pridecraft.gay).
 It comes with many LGBTQ+ Pride additions, including paintings, beds, mobs, candles and more!
@@ -41,15 +54,22 @@ We target both Java and Bedrock editions, hoping to create memorable experiences
 
 ## Socials
 
-[![Join our Discord](https://raw.githubusercontent.com/intergrav/devins-badges/c7fd18efdadd1c3f12ae56b49afd834640d2d797/assets/compact/social/discord-plural_vector.svg)](https://discord.pridecraft.gay)
-[![Chat with us on Mastodon](https://raw.githubusercontent.com/intergrav/devins-badges/c7fd18efdadd1c3f12ae56b49afd834640d2d797/assets/compact/social/mastodon-plural_vector.svg)](https://tech.lgbt/@pridecraft)
-[![Watch us on Youtube](https://raw.githubusercontent.com/intergrav/devins-badges/c7fd18efdadd1c3f12ae56b49afd834640d2d797/assets/compact/social/youtube-plural_vector.svg)](https://youtube.com/@pridecraftstudios)
-[![Chat with us on Bluesky](https://badger-api-staging.worldwidepixel.ca/compact?gradientStart=00A5E4&gradientEnd=0076B1&lineOne=Chat%20with%20us%20on&lineTwo=Bluesky&colourOne=FFFFFF&colourTwo=FFFFFF&iconUrl=https://raw.githubusercontent.com/OzzyCzech/bluesky-icon/main/dist/bluesky-icon.white.png)](https://bsky.app/profile/pridecraft.gay)
-[![Check out our Instagram](https://badger-api-staging.worldwidepixel.ca/compact?gradientStart=BA5353&gradientEnd=61003D&lineOne=Check%20out%20our&lineTwo=Instagram&colourOne=FFFFFF&colourTwo=FFF&iconUrl=https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/instagram-white-icon.png)](https://instagram.com/pridecraftstudios)
+[![Join our Discord](https://raw.githubusercontent.com/intergrav/devins-badges/c7fd18efdadd1c3f12ae56b49afd834640d2d797/assets/compact/social/discord-plural_vector.svg)](https://discord.pridecraft.gay) [![Chat with us on Bluesky](https://badger-api-staging.worldwidepixel.ca/compact?gradientStart=00A5E4&gradientEnd=0076B1&lineOne=Chat%20with%20us%20on&lineTwo=Bluesky&colourOne=FFFFFF&colourTwo=FFFFFF&iconUrl=https://raw.githubusercontent.com/OzzyCzech/bluesky-icon/main/dist/bluesky-icon.white.png)](https://bsky.app/profile/pridecraft.gay)
+[![Watch us on Youtube](https://raw.githubusercontent.com/intergrav/devins-badges/c7fd18efdadd1c3f12ae56b49afd834640d2d797/assets/compact/social/youtube-plural_vector.svg)](https://youtube.com/@pridecraftstudios) [![Chat with us on Mastodon](https://raw.githubusercontent.com/intergrav/devins-badges/c7fd18efdadd1c3f12ae56b49afd834640d2d797/assets/compact/social/mastodon-plural_vector.svg)](https://tech.lgbt/@pridecraft)
 
 # Licenses
 
-<p><a property="dct:title" rel="cc:attributionURL" href="https://pridecraft.gay/pridepack">Pridepack</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://pridecraft.gay">Pridecraft Studios</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img width="16" height="16" style="height:16px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img width="16" height="16" style="height:16px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img width="16" height="16" style="height:16px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
+<details>
+  <summary>Assets license [CC BY-SA 4.0]</summary>
+
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://pridecraft.gay/pridepack">Pridepack</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://pridecraft.gay">Pridecraft Studios</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img width="16" height="16" style="height:16px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img width="16" height="16" style="height:16px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img width="16" height="16" style="height:16px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
+
+</details>
+
+<!-- <p><a property="dct:title" rel="cc:attributionURL" href="https://pridecraft.gay/pridepack">Pridepack</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://pridecraft.gay">Pridecraft Studios</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img width="16" height="16" style="height:16px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img width="16" height="16" style="height:16px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img width="16" height="16" style="height:16px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p> -->
+
+<details>
+  <summary>Music license [ARR + Permissions]</summary>
 
 The music for Joy is licensed from [lynndova](https://worldwidepixel.ca/), under different terms and are **not** distributed under CC BY-SA 4.0. [See here for licensing terms.](https://git.pridecraft.gay/pridepack/blob/main/LICENSE-MUSIC)
 
@@ -60,3 +80,5 @@ In short:
   - Using this soundtrack in videos or streams
 
 If you are unsure if you may use the soundtracks or wish to license the soundtracks for your own use, contact lynndova on Discord via [their public email](mailto:hello@worldwidepixel.ca).
+
+</details>

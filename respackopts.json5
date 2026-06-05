@@ -14,21 +14,41 @@
 		values: ["all", "default", "none"]
 	  },	
       enableFoxSocks: true,
-      enablePrideHarness: true
+      enablePrideHarness: true,
+      enablePrideSniffer: true,
+      enablePrideSlimes: {
+		type: "enum",
+		default: "all",
+		values: ["all", "default", "none"]
+	  }
     },
     blocks: {
       enablePridePaintings: true,
       enablePrideCandles: true,
       enablePrideBeds: true,
       enableTransAlium: true,
-      enableLesbeans: true
+      enableLesbeans: true,
+      enablePrideSlimeBlock: {
+      type: "enum",
+		  default: "none",
+		  values: ["none", "Gay", "MLM", "Lesbian", "Bisexual", "Trans", "Pansexual","Queer", "NonBinary", "Intersex", "Agender", "Bigender", "Aroace", "Asexual", "Aromantic", "Aplatonic", "GenderFluid"]      
+      },
+      enablePrideStickyPiston: {
+      type: "enum",
+		  default: "none",
+		  values: ["none", "Gay", "MLM", "Lesbian", "Bisexual", "Trans", "Pansexual","Queer", "NonBinary", "Intersex", "Agender", "Bigender", "Aroace", "Asexual", "Aromantic", "Aplatonic", "GenderFluid"]      
+      }
     },
     items: {
       enablePrideBundles: true,
       enablePrideAxolotlBucket: true,
       enablePrideElytra: true,
-      enablePrideBrush: true
-//    enableEnchantmentGlint: true
+      enablePrideBrush: true,
+      enablePrideSlimeBall: {
+      type: "enum",
+		  default: "none",
+		  values: ["none", "Gay", "MLM", "Lesbian", "Bisexual", "Trans", "Pansexual", "Queer", "NonBinary", "Intersex", "Agender", "Bigender", "Aroace", "Asexual", "Aromantic", "Aplatonic", "GenderFluid"]      
+      }
     },
     ui: {
       enablePrideXPBar: true,
