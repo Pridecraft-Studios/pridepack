@@ -94,6 +94,6 @@ You are generally allowed to use Pridecraft Studios branding, under a few condit
 
 These assets are not freely useable. Please contact a team member on the [Pridecraft Studios discord](https://discord.pridecraft.gay).
 
-Copyright (c) (2022 - 2026) Pridecraft Studios, All Rights Reserved.
+© 2022 - 2026 Pridecraft Studios, All Rights Reserved.
 
 </details>
