@@ -79,3 +79,21 @@ In short:
 If you are unsure if you may use the soundtracks or wish to license the soundtracks for your own use, contact lynndova at https://lynndova.com/contact/.
 
 </details>
+
+<details>
+  <summary>Branding License [ARR + Permissions]</summary>
+
+The branding for [Pridecraft Studios](https://pridecraft.gay) is licensed differently from most pack content.
+
+You are generally allowed to use Pridecraft Studios branding, under a few conditions. In short:
+- You must provide attribution to Pridecraft Studios
+- You may not republish these assets verbatim
+- You may not imply endorsement or partnership 
+- You may use these assets under the fair use doctrine including but not limited to the following:
+  - Pridecraft Studios project icon usage in an informational context to identify Pridecraft Studios projects
+
+These assets are not freely useable. Please contact a team member on the [Pridecraft Studios discord](https://discord.pridecraft.gay).
+
+Copyright (c) (2022 - 2026) Pridecraft Studios, All Rights Reserved.
+
+</details>
