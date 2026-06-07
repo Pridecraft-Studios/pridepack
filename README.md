@@ -76,6 +76,6 @@ In short:
 - You may use this soundtrack under the fair use doctrine including but not limited to the following:
   - Using this soundtrack in videos or streams
 
-If you are unsure if you may use the soundtracks or wish to license the soundtracks for your own use, contact lynndova on Discord via [their public email](mailto:me@lynndova.com).
+If you are unsure if you may use the soundtracks or wish to license the soundtracks for your own use, contact lynndova at https://lynndova.com/contact/.
 
 </details>
