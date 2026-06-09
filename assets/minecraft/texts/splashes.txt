@@ -378,6 +378,7 @@ peam
 <- Gay Edition!
 <- MINCERAFT!
 <- LGBTQIA+
+This commit was made on Windows 7!
 Also on MCPEDL!
 Also on CurseForge!
 Also on Modrinth!
