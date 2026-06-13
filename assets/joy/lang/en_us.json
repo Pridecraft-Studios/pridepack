@@ -23,6 +23,14 @@
   "painting.joy.palm.title": "palm",
   "painting.joy.fourpixels.title": ["ONE [",{"text":"REDACTED","font":"minecraft:illageralt"},"] PIXEL"],
   "painting.joy.fourpixels.author": "tuopi27",
-  "painting.joy.floppe.title": "floppé"
-  "painting.joy.floppe.author": "ThinkSeal"
+  "painting.joy.floppe.title": "floppé",
+  "painting.joy.floppe.author": "ThinkSeal",
+
+  "mavapi.mod.joy": "Pridecraft",
+
+  "mavapi.variant.joy.trans": "Trangender (MtF)",
+  "mavapi.variant.joy.mlm": "Men-Loving Men",
+  "mavapi.variant.joy.lesbian": "Lesbian",
+  "mavapi.variant.joy.progress": "Progress",
+  "mavapi.variant.joy.aroace": "Aromantic asexual"
 }
