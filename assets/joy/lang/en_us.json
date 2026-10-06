@@ -1,0 +1,57 @@
+{
+  "joy.comment.1": "lynndova Music",
+  
+    "joy.comment.1.1" : "Vanilla",
+
+      "joy.music.game.douglas": "lynndova - Douglas",
+      "joy.music.game.melancolie": "lynndova - Mélancolie",
+      "joy.music.game.regina": "lynndova - Regina",
+      "joy.music.game.creative.reminiscence": "lynndova - Reminiscence",
+      "joy.music.game.opaque_window": "lynndova - Opaque Window",
+      "joy.music.menu.joy": "lynndova - Joy",
+
+    "joy.comment.1.2" : "\"Now Playing\" Mod",
+
+      "now-playing.joy:music/game/douglas": "lynndova - Douglas",
+      "now-playing.joy:music/game/melancolie": "lynndova - Mélancolie",
+      "now-playing.joy:music/game/regina": "lynndova - Regina",
+      "now-playing.joy:music/game/creative/reminiscence": "lynndova - Reminiscence",
+      "now-playing.joy:music/game/opaque_window": "lynndova - Opaque Window",
+      "now-playing.joy:music/menu/joy": "lynndova - Joy",
+
+  "joy.comment.2" : "More Axolotl Variants Mod (& API)",
+
+    "mavapi.mod.joy": "Pridecraft Studios",
+    
+    "mavapi.variant.joy.trans": "Transgender",
+    "mavapi.variant.joy.mlm": "Gay (MLM)",
+    "mavapi.variant.joy.lesbian": "Lesbian",
+    "mavapi.variant.joy.progress": "Progress",
+    "mavapi.variant.joy.aroace": "Aroace",
+
+  "joy.comment.3" : "Paintings",
+
+    "joy.comment.3.1" : "by Blurry",
+
+      "painting.joy.boat.title": "boat",
+      "painting.joy.boat.author": "blurry",
+
+      "painting.joy.cave.title": "cave",
+      "painting.joy.cave.author": "blurry",
+
+      "painting.joy.happy.title": "happy happens",
+      "painting.joy.happy.author": "blurry",
+
+      "painting.joy.palm.title": "palm",
+      "painting.joy.palm.author": "blurry",
+
+    "joy.comment.3.2" : "by ThinkSeal",
+
+      "painting.joy.floppe.title": "Floppé",
+      "painting.joy.floppe.author": "ThinkSeal",
+
+    "joy.comment.3.3" : "by tuopi27",
+
+      "painting.joy.fourpixels.title": "ONE DARN PIXEL",
+      "painting.joy.fourpixels.author": "tuopi27"
+}
